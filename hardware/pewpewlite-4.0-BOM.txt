@@ -1,0 +1,13 @@
+8x8 1.9mm common-cathode bi-color matrix 788AHG     $1.50   1x  $1.50
+HT16K33 28SOP                                       $0.60   1x  $0.60
+39kΩ 0805 resistor                                  $0.004  6x  $0.024
+4.7kΩ 0805 resistor                                 $0.004  2x  $0.008
+SPDT slide switch MK12C02                           $0.10   1x  $0.10
+Tact switch 6x6x4.5mm                               $0.02   6x  $0.12
+2.54mm male pin header                              $0.05   1x  $0.05
+Custom PCB 50.6x22.7mm                              $1.00   1x  $1.00
+Solder, flux, etc.                                  $0.168  1x  $0.168
+----------------------------------------------------------------------
+                                                        Total:  $3.50
+
+Note: prices are for a batch of 10 pieces.
