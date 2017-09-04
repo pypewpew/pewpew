@@ -15,6 +15,7 @@ the LED Matrix into place, solder its pins from the bottom, and trim them with
 wire cutters.
 
 .. image:: images/pew-assembly.png
+    :align: center
 
 Make sure to insert the LED Matrix in correct orientation -- with the markings
 in the same direction as the "down" button. Otherwise the colors will be wrong,
