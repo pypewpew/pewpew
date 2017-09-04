@@ -89,7 +89,7 @@ html_sidebars = {
         'about.html',
         'navigation.html',
         'searchbox.html',
-    ]
+    ],
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
