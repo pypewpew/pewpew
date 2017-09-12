@@ -10,7 +10,7 @@ Basic Assembly
 
 The simplest way to assemble the PewPew board is to use an `Adafruit Feather
 <https://www.adafruit.com/category/946>`_ board that supports CircuitPython (the
-`Feather M0 Express<https://www.adafruit.com/product/3403>`_ works great for
+`Feather M0 Express <https://www.adafruit.com/product/3403>`_ works great for
 this) with female pin headers, and to solder the male pin headers onto the
 PewPew FeatherWing. Afterwars, insert the LED Matrix into place, solder its
 pins from the bottom, and trim them with wire cutters.
@@ -34,7 +34,7 @@ Making it Flatter
 
 The basic assembly is fine, but it's good 2cm thick. You can make the whole
 thing much thinner by applying a number of tricks. First, use the `short female
-pin headers<https://www.adafruit.com/product/2940>`_ for the Adafruit Feather.
+pin headers <https://www.adafruit.com/product/2940>`_ for the Adafruit Feather.
 Second, move the plastic on your male pin headers to the end of the header,
 insert the header from the top, and try it with the Feather to see how long the
 pins need to be. Then solder them, and trim the parts sticking out from the top
@@ -48,7 +48,7 @@ Optional Battery
 ================
 
 To make the PewPew even more portable, you can add a small LiPO battery (`the
-100mAh batteries<https://www.adafruit.com/product/1570>`_ are about the right
+100mAh batteries <https://www.adafruit.com/product/1570>`_ are about the right
 size). The FeatherWing even has a power switch built-in that you can use. Just
 solder the battery leads to the two holes marked "+" for the red wire, and "-"
 for the black wire. Be very careful to not short the battery wires while you
