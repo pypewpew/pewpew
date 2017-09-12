@@ -12,7 +12,7 @@ The simplest way to assemble the PewPew board is to use an `Adafruit Feather
 <https://www.adafruit.com/category/946>`_ board that supports CircuitPython (the
 `Feather M0 Express <https://www.adafruit.com/product/3403>`_ works great for
 this) with female pin headers, and to solder the male pin headers onto the
-PewPew FeatherWing. Afterwars, insert the LED Matrix into place, solder its
+PewPew FeatherWing. Afterwards, insert the LED Matrix into place, solder its
 pins from the bottom, and trim them with wire cutters.
 
 .. image:: images/pew-assembly.png
