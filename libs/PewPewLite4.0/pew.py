@@ -4,7 +4,6 @@ import busio
 import digitalio
 import neopixel_write
 import time
-import sys
 
 
 _FONT = (
@@ -101,8 +100,8 @@ def keys():
     _i2c.writeto(0x70, _temp, end=1, stop=False)
     _i2c.readfrom_into(0x70, _temp)
     _keys = int.from_bytes(_temp, 'little') >> 5
-    if _keys == 0b111111:
-        sys.exit()
+    if _keys & 0b011110 == 0b011110:
+        raise GameOver()
     return _keys
 
 
@@ -111,6 +110,10 @@ def tick(delay):
 
     _tick += delay
     time.sleep(max(0, _tick - time.monotonic()))
+
+
+class GameOver(Exception):
+    pass
 
 
 class Pix:

@@ -1,7 +1,6 @@
 import random
 import pew
 
-
 BRICKS = [
     pew.Pix.from_iter([[3, 3], [3, 3]]),
     pew.Pix.from_iter([[0, 1], [1, 1], [0, 1]]),
@@ -21,6 +20,12 @@ def is_colliding(board, brick, brick_x, brick_y):
                     board.pixel(brick_x + x + 1, brick_y + y + 3)):
                 return True
     return False
+
+
+def debounce():
+    for i in range(10000):
+        if not pew.keys():
+            return
 
 
 pew.init()
@@ -47,9 +52,11 @@ while True:
             if (keys & pew.K_LEFT and
                     not is_colliding(board, brick, brick_x - 1, brick_y)):
                 brick_x -= 1
+                debounce()
             elif (keys & pew.K_RIGHT and
                     not is_colliding(board, brick, brick_x + 1, brick_y)):
                 brick_x += 1
+                debounce()
             if keys & pew.K_O:
                 new_brick = pew.Pix.from_iter([
                         [brick.pixel(brick.width - y - 1, x)
@@ -58,6 +65,7 @@ while True:
                     ])
                 if not is_colliding(board, new_brick, brick_x, brick_y):
                     brick = new_brick
+                debounce()
             elif keys & pew.K_X:
                 new_brick = pew.Pix.from_iter([
                         [brick.pixel(y, brick.height - x -1)
@@ -66,6 +74,7 @@ while True:
                     ])
                 if not is_colliding(board, new_brick, brick_x, brick_y):
                     brick = new_brick
+                debounce()
             screen.blit(board, 0, 0, 1, 3, 6, 8)
             screen.blit(brick, brick_x, brick_y, key=0)
             pew.show(screen)
@@ -74,8 +83,7 @@ while True:
             pew.tick(1/4)
         brick_y += 1
     board.blit(brick, brick_x + 1, brick_y - 1 + 3, key=0)
-    while pew.keys():
-        pew.tick(1/4)
+    debounce()
     if brick_y < 0:
         break
     for row in range(11):

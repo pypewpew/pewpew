@@ -1,5 +1,6 @@
 import pew
 import os
+import sys
 import time
 
 
@@ -23,7 +24,10 @@ def change(pix, next_pix, x, dy):
 def hold_keys():
     global hold
 
-    keys = pew.keys()
+    try:
+        keys = pew.keys()
+    except pew.GameOver:
+        keys = 0
     if keys:
         hold = 0
     while pew.keys() and time.monotonic() - hold < 0.25:
@@ -71,27 +75,34 @@ def menu(entries):
 
 
 pew.init()
-hold = 0
-screen = pew.Pix()
-
-files = [name[:-3] for name in os.listdir() if name.endswith('.py')]
-m = menu(files)
-selected = 0
 while True:
+    hold = 0
+    screen = pew.Pix()
+    files = [name[:-3] for name in os.listdir()
+             if name.endswith('.py') and name != 'main.py']
+    m = menu(files)
+    selected = 0
     try:
-        selected = next(m)
-    except StopIteration:
-        break
-    pew.show(screen)
-    pew.tick(1/24)
-screen.box(0)
-pew.show(screen)
-try:
-    __import__(files[selected])
-except Exception as e:
-    text = pew.Pix.from_text(str(e), 2)
+        while pew.keys():
+            pew.tick(1/24)
+    except pew.GameOver:
+        pass
     while True:
-        for dx in range(-8, text.width):
-            screen.blit(text, -dx, 1)
-            pew.show(screen)
-            pew.tick(1/12)
+        try:
+            selected = next(m)
+        except StopIteration:
+            break
+        pew.show(screen)
+        pew.tick(1/24)
+    screen.box(0)
+    pew.show(screen)
+    game = files[selected]
+    del screen
+    del m
+    del files
+    try:
+        __import__(game)
+    except pew.GameOver:
+        continue
+    del sys.modules[game]
+

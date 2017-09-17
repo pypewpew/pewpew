@@ -50,8 +50,7 @@ while True:
         screen.pixel(x, y, 0)
 
 text = pew.Pix.from_text("Game over!")
-while True:
-    for dx in range(-8, text.width):
-        screen.blit(text, -dx, 1)
-        pew.show(screen)
-        pew.tick(1 / 12)
+for dx in range(-8, text.width):
+    screen.blit(text, -dx, 1)
+    pew.show(screen)
+    pew.tick(1 / 12)
