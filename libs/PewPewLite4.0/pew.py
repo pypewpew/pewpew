@@ -2,7 +2,10 @@ from micropython import const
 import board
 import busio
 import digitalio
-import neopixel_write
+try:
+    import neopixel_write
+except ImportError:
+    pass
 import time
 
 
