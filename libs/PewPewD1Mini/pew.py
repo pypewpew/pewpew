@@ -155,10 +155,10 @@ class Pix:
         x = min(max(x, 0), self.width - 1)
         y = min(max(y, 0), self.height - 1)
         width = max(0, min(width or self.width, self.width - x))
-        height = max(0, min(height or self.height, self.height - x))
+        height = max(0, min(height or self.height, self.height - y))
         for y in range(y, y + height):
-            xx = y * self.width
-            for x in range(x, x + width):
+            xx = y * self.width + x
+            for i in range(width):
                 self.buffer[xx] = color
                 xx += 1
 
