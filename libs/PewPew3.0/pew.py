@@ -4,7 +4,7 @@ import busio
 import time
 import digitalio
 
-_PALETTE = b'\x00\x00\xff\x00\x00\xff\xff\xff'
+_PALETTE = b'\x00\x00\xff\x00\x00\xff\xff\xff\x11\x11\x44\x00\x00\x44\x44\x44'
 _FONT = (
         b'\xff\xff\xff\xff\xff\xff\xf3\xf3\xf7\xfb\xf3\xff\xcc\xdd\xee\xff\xff'
         b'\xff\xdd\x80\xdd\x80\xdd\xff\xf7\x81\xe4\xc6\xd0\xf7\xcc\xdb\xf3\xf9'
@@ -107,7 +107,7 @@ class Pix:
         font = memoryview(_FONT)
         if colors is None:
             if color is None:
-                colors = (3, 2, bgcolor, bgcolor)
+                colors = (3, 7, 4, bgcolor)
             else:
                 colors = (color, color, bgcolor, bgcolor)
         x = 0
