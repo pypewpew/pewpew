@@ -42,7 +42,7 @@ while True:
     brick = next_brick
     next_brick = BRICKS[random.getrandbits(3)]  # 0-7
     screen.box(color=0, x=6, y=0, width=2, height=5)
-    screen.blit(next_brick, x=6, y=0)
+    screen.blit(next_brick, dx=6, dy=0)
     brick_x = 2
     brick_y = -3
     while True:
@@ -95,8 +95,7 @@ while True:
                 board.pixel(x, y, board.pixel(x, y - 1))
 
 screen.box(0, 6, 0, 2, 5)
-for y in range(12, 0, -1):
-    screen.box(3, x=1, y=y, width=6, height=1)
-    screen.blit(board, dx=0, dy=0, x=1, y=3, width=6, height=8)
+for y in range(7, -1, -1):
+    screen.box(3, x=0, y=y, width=6, height=1)
     pew.show(screen)
     pew.tick(1/4)

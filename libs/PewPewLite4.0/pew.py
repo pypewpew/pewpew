@@ -119,7 +119,7 @@ class Pix:
                 unsalted = byte ^ _SALT
                 for col in range(4):
                     pix.pixel(x + col, row, colors[unsalted & 0x03])
-                    byte >>= 2
+                    unsalted >>= 2
                 row += 1
             x += 4
         return pix
