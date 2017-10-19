@@ -24,7 +24,8 @@ def is_colliding(board, brick, brick_x, brick_y):
 
 
 def debounce():
-    for i in range(10000):
+    for i in range(100):
+        pew.tick(1/100)
         if not pew.keys():
             return
 

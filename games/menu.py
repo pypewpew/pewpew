@@ -22,7 +22,7 @@ def change(pix, next_pix, x, dy):
 
 
 def hold_keys():
-    global hold
+    global _hold
 
     try:
         keys = pew.keys()
@@ -30,29 +30,18 @@ def hold_keys():
         keys = 0
     if keys:
         hold = 0
-    while pew.keys() and time.monotonic() - hold < 0.25:
-        return 0
+    try:
+        while pew.keys() and time.monotonic() - hold < 0.25:
+            return 0
+    except pew.GameOver:
+        keys = 0
     hold = time.monotonic()
     return keys
 
 
 def menu(entries):
-    brightness = 7
-    pew.brightness(brightness)
-    selected = 0
-    pix = pew.Pix.from_text(entries[selected])
-    x = 0
     animation = scroll(pix)
     while True:
-        keys = hold_keys()
-        if keys & pew.K_O:
-            return
-        if keys & pew.K_RIGHT:
-            brightness = min(brightness + 1, 15)
-            pew.brightness(brightness)
-        if keys & pew.K_LEFT:
-            brightness = max(brightness - 1, 0)
-            pew.brightness(brightness)
         if keys & pew.K_UP:
             selected = (selected - 1) % len(entries)
             next_pix = pew.Pix.from_text(entries[selected])
@@ -77,29 +66,34 @@ def menu(entries):
 pew.init()
 pew.init()
 while True:
-    hold = 0
+    _hold = 0
+    _brightness = 7
+    pew.brightness(_brightness)
     screen = pew.Pix()
     files = [name[:-3] + ' ' for name in os.listdir()
              if name.endswith('.py') and name != 'main.py']
-    m = menu(files)
     selected = 0
-    try:
-        while pew.keys():
-            pew.tick(1/24)
-    except pew.GameOver:
-        pass
+    x = 0
+    while pew.keys():
+        pew.tick(1/24)
     while True:
-        try:
-            selected = next(m)
-        except StopIteration:
+        pix = pew.Pix.from_text(files[selected])
+        keys = hold_keys()
+        if keys & pew.K_O:
             break
+        if keys & pew.K_RIGHT:
+            _brightness = min(_brightness + 1, 15)
+            pew.brightness(_brightness)
+        if keys & pew.K_LEFT:
+            _brightness = max(_brightness - 1, 0)
+            pew.brightness(_brightness)
+
         pew.show(screen)
         pew.tick(1/24)
     screen.box(0)
     pew.show(screen)
     game = files[selected]
     del screen
-    del m
     del files
     try:
         __import__(game)

@@ -89,10 +89,12 @@ def tick(delay):
 
 
 class GameOver(Exception):
-    pass
+    __slots__ = ,
 
 
 class Pix:
+    __slots__ = ('buffer', 'width', 'height')
+
     def __init__(self, width=8, height=8, buffer=None):
         if buffer is None:
             buffer = bytearray(width * height)
