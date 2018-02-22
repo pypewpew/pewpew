@@ -2,7 +2,10 @@ from micropython import const
 import board
 import busio
 import digitalio
-import neopixel_write
+try:
+    import neopixel_write
+except ImportError:
+    pass
 import time
 
 
@@ -228,7 +231,7 @@ def init():
     except OSError:
         raise RuntimeError("PewPew Lite board not found")
     try:
-        _buffer[1:2] = b'\x00\x00'
+        _buffer[1:3] = b'\x00\x00'
     except TypeError:
         SLICES = False
 
