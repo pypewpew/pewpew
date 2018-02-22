@@ -79,7 +79,7 @@ pew.init()
 while True:
     hold = 0
     screen = pew.Pix()
-    files = [name[:-3] + ' ' for name in os.listdir()
+    files = [name[:-3] for name in os.listdir()
              if name.endswith('.py') and name != 'main.py']
     m = menu(files)
     selected = 0
