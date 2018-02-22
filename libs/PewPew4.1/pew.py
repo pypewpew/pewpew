@@ -223,7 +223,7 @@ def _register(page, register, value=None):
 
 
 def init():
-    global _i2c, _buffer, _temp, _keys, _last_keys, _tick, _page, _gamepad
+    global _i2c, _buffer, _temp, _tick, _page, _gamepad
 
     _buffer = bytearray(17)
 
