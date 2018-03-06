@@ -66,7 +66,8 @@ Software Setup
 All the example programs are written using CircuitPython, so you will need to
 get that running on your Feather board. Fortunately Adafruit provides a lot of
 tutorials about how to do it. Some of the boards (like the M0 Express) even
-come with CircuitPython already loaded on them.
+come with CircuitPython already loaded on them. Please see
+ `this guide <https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython>`_.
 
 Once you have CircuitPython running on the board, you need to copy the
 ``pew.mpy`` file to it. That's the main library that contains all the functions
@@ -74,7 +75,10 @@ needed to use the PewPew hardware.
 
 In addition, you need to copy your program onto the board. You have to name it
 ``main.py`` for it to be started automatically on power-up. Later on we will
-see how we can use a menu program that will let you choose what to run.
+see how we can use a menu program that will let you choose what to run (you
+have to rename the ``menu.py`` to ``main.py`` to have it run at start).
 
-You can get all the files from the
-`project's repository <https://github.com/deshipu/pewpew>`_.
+You can get all the files from the `project's repository
+<https://github.com/deshipu/pewpew>`_, and the compiled files are available
+from the `releases page <https://github.com/pewpew-game/pewpew/releases>`_.
+
