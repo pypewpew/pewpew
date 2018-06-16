@@ -92,7 +92,7 @@ def tick(delay):
 
 
 class GameOver(Exception):
-    __slots__ = ,
+    __slots__ = ()
 
 
 class Pix:
