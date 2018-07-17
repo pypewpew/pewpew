@@ -105,6 +105,6 @@ while True:
     try:
         __import__(game)
     except pew.GameOver:
-        continue
+        pass
     del sys.modules[game]
 
