@@ -96,9 +96,9 @@ def keys():
 
 def tick(delay):
     global _tick
-
-    _tick += delay
-    time.sleep(max(0, _tick - time.monotonic()))
+    now = time.monotonic()
+    _tick = max(_tick + delay, now)
+    time.sleep(max(0, _tick - now))
 
 
 class Pix:
@@ -205,6 +205,8 @@ class Pix:
 def init():
     global _i2c, _buffer, _temp, _keys, _last_keys, _tick
 
+    _tick = time.monotonic()
+
     if _i2c is not None:
         return
 
@@ -214,7 +216,6 @@ def init():
     _temp = bytearray(2)
     _keys = 0
     _last_keys = 0
-    _tick = time.monotonic()
 
     _buffer[0] = 0x21
     try:

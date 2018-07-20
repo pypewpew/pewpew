@@ -56,9 +56,9 @@ def keys():
 
 def tick(delay):
     global _tick
-
-    _tick += delay
-    time.sleep(max(0, _tick - time.monotonic()))
+    now = time.monotonic()
+    _tick = max(_tick + delay, now)
+    time.sleep(max(0, _tick - now))
 
 
 class GameOver(Exception):
@@ -202,6 +202,7 @@ def init():
     global _i2c, _buffer, _temp, _tick, _page
     global SLICES
 
+    _tick = time.monotonic()
     _buffer = bytearray(17)
 
     if _i2c is not None:
@@ -211,7 +212,6 @@ def init():
     _i2c.try_lock()
     _temp = bytearray(2)
     _page = None
-    _tick = time.monotonic()
 
     try:
         _register(0x03, 0x00, 0x03)
