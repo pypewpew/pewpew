@@ -74,13 +74,21 @@ def menu(entries):
         yield selected
 
 
+def importspew(name):
+    with open(name, 'r') as f:
+        for l in range(2):
+            if f.readline().strip() == 'import pew':
+                return True
+    return False
+
+
 pew.init()
 pew.init()
 while True:
     hold = 0
     screen = pew.Pix()
     files = [name[:-3] for name in os.listdir()
-             if name.endswith('.py') and name != 'main.py']
+             if name.endswith('.py') and name != 'main.py' and importspew(name)]
     m = menu(files)
     selected = 0
     try:
