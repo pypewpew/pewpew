@@ -24,10 +24,10 @@ PewPew Library Reference
 
 .. function:: keys()
 
-    Return a number telling which keys have been pressed since the last check.
-    The number can then be filtered with the ``&`` operator and the ``K_X``,
-    ``K_DOWN``, ``K_LEFT``, ``K_RIGHT``, ``K_UP``, and ``K_O`` constants to see
-    whether any of the keys was pressed.
+    Return a number telling which keys (or buttons) have been pressed since the
+    last check.  The number can then be filtered with the ``&`` operator and
+    the ``K_X``, ``K_DOWN``, ``K_LEFT``, ``K_RIGHT``, ``K_UP``, and ``K_O``
+    constants to see whether any of the keys was pressed.
 
 
 .. function:: tick(delay)
