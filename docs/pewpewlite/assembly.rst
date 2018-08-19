@@ -15,7 +15,7 @@ this) with female pin headers, and to solder the male pin headers onto the
 PewPew FeatherWing. Afterwards, insert the LED Matrix into place, solder its
 pins from the bottom, and trim them with wire cutters.
 
-.. image:: images/pew-assembly.png
+.. image:: pew-assembly.png
     :align: center
 
 Make sure to insert the LED Matrix in correct orientation -- with the markings
@@ -67,7 +67,7 @@ All the example programs are written using CircuitPython, so you will need to
 get that running on your Feather board. Fortunately Adafruit provides a lot of
 tutorials about how to do it. Some of the boards (like the M0 Express) even
 come with CircuitPython already loaded on them. Please see
- `this guide <https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython>`_.
+`this guide <https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython>`_.
 
 Once you have CircuitPython running on the board, you need to copy the
 ``pew.mpy`` file to it. That's the main library that contains all the functions
