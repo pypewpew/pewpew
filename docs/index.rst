@@ -11,6 +11,7 @@ features available.
 .. toctree::
     :maxdepth: 2
 
-    pewpewlite/overview.rst
     pew.rst
+    pewpewlite/overview.rst
+    pewpew10/overview.rst
 
