@@ -12,6 +12,7 @@ features available.
     :maxdepth: 2
 
     pew.rst
+    pewmulator.rst
     pewpewlite/overview.rst
     pewpew10/overview.rst
 
