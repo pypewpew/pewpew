@@ -12,7 +12,8 @@ PewPew Library Reference
 
 .. function:: brightness(level)
 
-    Set the brightness of the display, from 0 to 15.
+    Set the brightness of the display, from 0 (minimum) to 15 (maximum). On
+    devices that don't support varying the brightness this does nothing.
 
 
 .. function:: show(pix)
