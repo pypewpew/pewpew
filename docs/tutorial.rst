@@ -112,10 +112,10 @@ are visible at the same time. Now, let's make the pixel bounce off the edges::
 
     pew.init()
     screen = pew.Pix()
-    x = 0
-    y = 0
-    dx = -1
-    dy = -1
+    x = 1
+    y = 1
+    dx = 1
+    dy = 1
     while True:
         screen.pixel(x, y, 0)
         if not 0 < x < 7:
@@ -128,9 +128,10 @@ are visible at the same time. Now, let's make the pixel bounce off the edges::
         pew.show(screen)
         pew.tick(1/12)
 
-Now you should see our pixel going from one corner to the other. That's neat,
-but a little bit boring. Maybe if we changed the starting position it would be
-better::
+We had to move our starting point a bit, because otherwise it will get stuck in
+the corner. Now you should see our pixel going from one corner to the other.
+That's neat, but a little bit boring. Maybe if we changed the starting position
+it would be better::
 
     import pew
 
