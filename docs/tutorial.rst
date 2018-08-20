@@ -114,8 +114,8 @@ are visible at the same time. Now, let's make the pixel bounce off the edges::
     screen = pew.Pix()
     x = 0
     y = 0
-    dx = 1
-    dy = 1
+    dx = -1
+    dy = -1
     while True:
         screen.pixel(x, y, 0)
         if not 0 < x < 7:
@@ -138,7 +138,7 @@ better::
     pew.init()
     screen = pew.Pix()
     x = 3
-    y = 0
+    y = 1
     dx = 1
     dy = 1
     while True:
@@ -162,7 +162,7 @@ pressing `O` could make it bounce horizontally, and pressing `X` vertically::
     pew.init()
     screen = pew.Pix()
     x = 3
-    y = 0
+    y = 1
     dx = 1
     dy = 1
     while True:
@@ -185,7 +185,7 @@ Could we have a nicer background than just black? Let's try a check board::
 
     pew.init()
     screen = pew.Pix()
-    background = pew.Pix.from_iter(
+    background = pew.Pix.from_iter((
         (1, 0, 1, 0, 1, 0, 1, 0),
         (0, 1, 0, 1, 0, 1, 0, 1),
         (1, 0, 1, 0, 1, 0, 1, 0),
@@ -194,9 +194,9 @@ Could we have a nicer background than just black? Let's try a check board::
         (0, 1, 0, 1, 0, 1, 0, 1),
         (1, 0, 1, 0, 1, 0, 1, 0),
         (0, 1, 0, 1, 0, 1, 0, 1),
-    )
+    ))
     x = 3
-    y = 0
+    y = 1
     dx = 1
     dy = 1
     while True:
@@ -222,11 +222,11 @@ How about making the ball larger::
 
     pew.init()
     screen = pew.Pix()
-    ball = pew.Pix.from_iter(
+    ball = pew.Pix.from_iter((
         (3, 2),
         (2, 1),
-    )
-    background = pew.Pix.from_iter(
+    ))
+    background = pew.Pix.from_iter((
         (1, 0, 1, 0, 1, 0, 1, 0),
         (0, 1, 0, 1, 0, 1, 0, 1),
         (1, 0, 1, 0, 1, 0, 1, 0),
@@ -235,9 +235,9 @@ How about making the ball larger::
         (0, 1, 0, 1, 0, 1, 0, 1),
         (1, 0, 1, 0, 1, 0, 1, 0),
         (0, 1, 0, 1, 0, 1, 0, 1),
-    )
+    ))
     x = 3
-    y = 0
+    y = 1
     dx = 1
     dy = 1
     while True:
