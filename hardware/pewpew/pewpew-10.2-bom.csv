@@ -1,0 +1,8 @@
+Part/Designator,Manufacture Part Number/Description,Quantity,Remarks/Links
+U1,ATSAMD21E18A-MU,1,microcontroller: https://www.mouser.ch/ProductDetail/556-ATSAMD21E18A-MU
+"C1,C2",1uF 0805 capacitor, 2
+ON/OFF,MK12C02,1,switch: https://www.aliexpress.com/item/10PCS-Lot-MP3-Toggle-Switch-MK12C02-7P-12608-Micro-Switch-Miniature-Toggle-MP3-Key-Button/32812362709.html
+X2,10118193-0001LF,1,microusb socket: https://www.aliexpress.com/item/20PCS-LOT-MicroUSB-socket-MK5P-Mike-5P-MINIUSB-USB-5-pin-female/32874709816.html
+"O,X,up,down,left,right",SMD Tact Switch 6*6*6mm Green,6,https://www.aliexpress.com/item/4-Pins-SMT-Mini-Hand-Touch-Switch-SMD-Tact-Switch-6-6-6mm-White-Green-Orange/32698050818.html
+X1,1088BS 8x8 Red 3mm Square LED Matrix,1,"Leave unsoldered, https://www.aliexpress.com/item/FREE-SHIPPING-10PCS-x-3MM-8X8-RED-32-32mm-Square-LED-Dot-Matrix-Digital-Tube-Module/32756487745.html"
++/-,2xAAA battery holder,1,"Leave unsoldered, https://www.aliexpress.com/item/7Pcs-Black-Red-2-Wire-Cable-Connectors-2x-AAA-Battery-Box-Case-Holder/32871718687.html"
