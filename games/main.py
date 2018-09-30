@@ -8,6 +8,7 @@ def scroll(pix, dx=1):
     x = 0
     while True:
         for x in range(x, pix.width, dx):
+            screen.box(0)
             screen.blit(pix, -x, 1)
             yield x
         x = -8
