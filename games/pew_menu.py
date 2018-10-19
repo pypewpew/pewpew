@@ -46,7 +46,8 @@ def menugen(screen, entries):
     brightness = 7
     pew.brightness(brightness)
     selected = 0
-    pix = pew.Pix.from_text(entries[selected])
+    selectedText = entries[selected]
+    pix = pew.Pix.from_text(selectedText)
     x = 0
     animation = scroll(screen, pix)
     while True:
@@ -61,7 +62,8 @@ def menugen(screen, entries):
             pew.brightness(brightness)
         if keys & pew.K_UP:
             selected = (selected - 1) % len(entries)
-            next_pix = pew.Pix.from_text(entries[selected])
+            selectedText = entries[selected]
+            next_pix = pew.Pix.from_text(selectedText)
             yield from change(screen, pix, next_pix, x, 1)
             hold_keys()
             pix = next_pix
@@ -69,7 +71,8 @@ def menugen(screen, entries):
             keys = 0
         if keys & pew.K_DOWN:
             selected = (selected + 1) % len(entries)
-            next_pix = pew.Pix.from_text(entries[selected])
+            selectedText = entries[selected]
+            next_pix = pew.Pix.from_text(selectedText)
             yield from change(screen, pix, next_pix, x, -1)
             hold_keys()
             pix = next_pix
@@ -78,6 +81,15 @@ def menugen(screen, entries):
         x = next(animation)
         yield selected
         yield selected
+        if selected >= len(entries) or entries[selected] != selectedText:
+            try:
+                selected = entries.index(selectedText)
+            except ValueError:
+                if selected >= len(entries):
+                    selected = len(entries) - 1
+                selectedText = entries[selected]
+                pix = pew.Pix.from_text(selectedText)
+                animation = scroll(screen, pix)
 
 
 def menu(entries):
