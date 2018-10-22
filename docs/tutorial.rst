@@ -5,11 +5,11 @@ Let's try to write a simple bouncing ball demo, where a single pixel moves
 around the screen and bounces off its edges. This will let us get familiar
 with the library.
 
-Start by copying everything on your PewPew away into a safe place, and deleting
-it, so that you have a blank device. Then create a file called "main.py" ---
-that's where we will put all of our code. It will be run automatically every
-time the device is switched on or restarted, and also every time you change
-something in that file --- so it's convenient to test things quickly this way.
+Start by creating a file called "code.py" --- that is where all our code
+will go. As long as such a file exists, PewPew will try to run it on startup
+and on reset. Later, when you finish working on your game, you can rename it
+to whatever you call your game, and then PewPew will fall back to running
+"main.py", which contains the game selection menu.
 
 To use the PewPew library, we need to first import it into our code. So we need to start with this line::
 
