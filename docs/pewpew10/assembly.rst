@@ -13,7 +13,7 @@ Display
 
 You start the assembly by attaching and soldering the display. Insert the
 provided LED matrix into the 16 holes in the middle of the printed circuit
-board, making sure that the side of the matrix with text on it faces left,
+board, making sure that the side of the matrix with text on it faces right,
 towards the two fire buttons. You may need to straighten the pins a little if
 they bent during the transport.
 
