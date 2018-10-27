@@ -12,5 +12,5 @@ RAM memory available --- so if you write a game in Pewmulator, chances are it
 won't run on PewPew because of lack of memory.
 
 You can get the library from the `github repository
-<https://github.com/pewpew-game/pewmulator>`. Just place the ``pew.py`` file
+<https://github.com/pewpew-game/pewmulator>`_. Just place the ``pew.py`` file
 alongside the code of your game, and run your game with Python 3.

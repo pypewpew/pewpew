@@ -9,4 +9,5 @@ using it.
 .. toctree::
     :maxdepth: 2
 
+    hardware.rst
     assembly.rst
