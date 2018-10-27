@@ -34,25 +34,25 @@ The 12-pin Connector
 +-------+----------+----------------------------------------------+
 | Label | Name     | Function                                     |
 +=======+==========+==============================================+
-| R     | Reset    | Ground this pin to perform hard reset.       |
+| ``R`` | Reset    | Ground this pin to perform hard reset.       |
 +-------+----------+----------------------------------------------+
-| -     | GND      | Negative power and ground. There are 2 pins. |
+| ``-`` | GND      | Negative power and ground. There are 2 pins. |
 +-------+----------+----------------------------------------------+
-| 1     | board.P1 | DigitalIO, SWC, SPI-MISO/MOSI, PWM           |
+| ``1`` | board.P1 | DigitalIO, SWC, SPI-MISO/MOSI, PWM           |
 +-------+----------+----------------------------------------------+
-| 2     | board.P2 | DigitalIO, SWD, SPI-SCK, PWM                 |
+| ``2`` | board.P2 | DigitalIO, SWD, SPI-SCK, PWM                 |
 +-------+----------+----------------------------------------------+
-| 3     | board.P3 | DigitalIO, I2C-SDA, SPI-MISO/MOSI, PWM       |
+| ``3`` | board.P3 | DigitalIO, I2C-SDA, SPI-MISO/MOSI, PWM       |
 +-------+----------+----------------------------------------------+
-| 4     | board.P4 | DigitalIO, I2C-SCL, SPI-SCK, PWM             |
+| ``4`` | board.P4 | DigitalIO, I2C-SCL, SPI-SCK, PWM             |
 +-------+----------+----------------------------------------------+
-| 5     | board.P5 | DigitalIO, ADC, DAC, PWM, TouchIO            |
+| ``5`` | board.P5 | DigitalIO, ADC, DAC, PWM, TouchIO            |
 +-------+----------+----------------------------------------------+
-| 6     | board.P6 | DigitalIO, ADC, TouchIO                      |
+| ``6`` | board.P6 | DigitalIO, ADC, TouchIO                      |
 +-------+----------+----------------------------------------------+
-| 7     | board.P7 | DigitalIO, SPI-MISO/MOSI, UART, TouchIO      |
+| ``7`` | board.P7 | DigitalIO, SPI-MISO/MOSI, UART, TouchIO      |
 +-------+----------+----------------------------------------------+
-| +     | VCC      | Positive 3V power. There are 2 pins.         |
+| ``+`` | VCC      | Positive 3V power. There are 2 pins.         |
 +-------+----------+----------------------------------------------+
 
 You can insert a male header into the holes at the back of the device and plug
