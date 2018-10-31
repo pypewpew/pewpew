@@ -73,5 +73,5 @@ The materials are available in the
 Buy Set
 =======
 
-If you want to buy a complete set you only need to solder and program, you can
+If you want to buy a complete set you only need to solder, you can
 find one at `tindie <https://www.tindie.com/products/deshipu/small-pewpew-standalone/>`.
