@@ -45,3 +45,10 @@ and even sell your own versions.
 
 The materials are available in the
 `project's repository <https://github.com/deshipu/pewpew>`_.
+
+
+Buy Set
+=======
+
+If you want to buy a complete set you only need to solder, you can
+find one at `tindie <https://www.tindie.com/products/deshipu/pewpew-lite-featherwing/>`.
