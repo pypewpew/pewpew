@@ -17,6 +17,8 @@ board, making sure that the side of the matrix with text on it faces right,
 towards the two fire buttons. You may need to straighten the pins a little if
 they bent during the transport.
 
+.. image:: display2.jpg
+
 .. warning:: If you solder the display in the wrong orientation, it will not
     work correctly. Please make sure the orientation is correct before you
     start soldering.
@@ -27,6 +29,8 @@ each of the pins. To do that, touch the tip of a hot soldering iron to the pin
 and the ring around the hole at the same time, wait a second for them to become
 hot, and then touch them with the solder wire, melting enough solder to fill
 the hole.
+
+.. image:: display1.jpg
 
 .. note:: If you are new to soldering, you can find soldering tutorials on the
     Internet.
@@ -49,6 +53,8 @@ and attach it to the circuit board so that the two wires go through the holes
 marked + and - (make sure the red wire goes to +, and the black one to -).
 There are two sets of such holes, pick the correct one depending on what order
 the wires come out of your battery holder.
+
+.. image:: holder.jpg
 
 .. warning:: It is very important to pay attention to the battery polarity, as
     this device doesn't have any kind of reverse polarity protection, and
