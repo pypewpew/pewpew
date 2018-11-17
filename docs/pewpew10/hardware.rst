@@ -66,12 +66,12 @@ materials are publicly available under a permissive license. You are free to
 inspect how it is build, build your own, improve and extend the design, and
 even sell your own versions.
 
-The materials are available in the
+The designs are available in the
 `project's repository <https://github.com/deshipu/pewpew>`_.
 
 
-Buy Set
-=======
+Buy a Kit
+=========
 
-If you want to buy a complete set you only need to solder, you can
-find one at `tindie <https://www.tindie.com/products/deshipu/small-pewpew-standalone/>`.
+If you want to buy a kit that you only need to solder, you can
+find one at `Tindie <https://www.tindie.com/products/deshipu/small-pewpew-standalone/>`_.
