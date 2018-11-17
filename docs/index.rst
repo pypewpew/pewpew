@@ -8,10 +8,6 @@ They all have a small 8×8 display and six buttons, and they all use the same
 "pew" library for accessing them. However, they differ in size, price and
 features available.
 
-.. image:: pewpew10.2.jpg
-    :align: right
-    :width: 50%
-
 
 .. toctree::
     :maxdepth: 2
