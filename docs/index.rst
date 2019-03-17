@@ -16,4 +16,5 @@ features available.
     tutorial.rst
     pewmulator.rst
     devices.rst
+    community.rst
 
