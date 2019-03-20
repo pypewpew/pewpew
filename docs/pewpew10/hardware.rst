@@ -28,6 +28,8 @@ battery holder. The batteries are required for operation, it can't be powered
 from the USB port. There is also a 12-pin connector on the back of the device
 that can be used for connecting other electronic devices.
 
+.. _12-pin-connector:
+
 The 12-pin Connector
 ====================
 
@@ -57,6 +59,28 @@ The 12-pin Connector
 
 You can insert a male header into the holes at the back of the device and plug
 it into a breadboard to easily gain access to the pins.
+
+
+Updating the Firmware
+=====================
+
+1. Download a *.uf2* file from https://circuitpython.org/board/pewpew10/.
+2. Connect the PewPew to your computer using a USB cable. It appears as a disk
+   named *CIRCUITPY*.
+3. “Eject” or “safely remove” the *CIRCUITPY* disk.
+4. Connect the ``R`` and ``-`` pins on the :ref:`12-pin connector
+   <12-pin-connector>` twice in short succession, like a double-click. Seen from
+   the front, these are the two rightmost pins. If you added a male pin header,
+   this is easily done by touching any metal part to the two pins. The PewPew
+   display should go black and a disk named *TRINKETBOOT* should appear.
+5. If the *CIRCUITPY* disk reappears instead and the PewPew display shows the
+   scrolling menu (or whatever else you installed as *main.py*), try the
+   double-click again, it can take a few tries to get the rhythm right.
+6. Copy the downloaded *.uf2* file to the *TRINKETBOOT* disk. When it’s done,
+   which should take no longer than a few seconds, *TRINKETBOOT* disappears,
+   *CIRCUITPY* reappears, and your PewPew is now running the new CircuitPython
+   version.
+
 
 Open Development
 ================
