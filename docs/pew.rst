@@ -82,7 +82,7 @@ PewPew Library Reference
         Copied the ``source`` drawing surface onto this surface at location
         specified with ``dx`` and ``dy``.
 
-        If ``x``, ``y``, ``widht`` and ``height`` are specified, only copies
+        If ``x``, ``y``, ``width`` and ``height`` are specified, only copies
         that fragment of the ``source`` image, otherwise copies it whole.
 
         If ``key`` color is specified, that color is considered transparent
