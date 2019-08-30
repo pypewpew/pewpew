@@ -14,6 +14,7 @@ features available.
 
     pew.rst
     tutorial.rst
+    tutorial-sokoban.rst
     pewmulator.rst
     devices.rst
     community.rst
