@@ -37,7 +37,7 @@ slow enough to see the movements, but not too slow::
 
 Now, we will need an image that we will display on the screen. In PewPew,
 images are represented as ``Pix`` objects. So we can create an empty image the
-size of the display, and display it in out loop::
+size of the display, and display it in our loop::
 
     import pew
 
