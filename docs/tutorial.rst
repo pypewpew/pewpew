@@ -82,7 +82,7 @@ Now let's make the pixel actually move::
         pew.tick(1/12)
 
 After running this, you will see a diagonal line on the display. That's because
-the old positions of the pixel are not getting deleted, and because the pixel
+the old positions of the pixel are not getting deleted. And the pixel
 keeps on going forever outside the screen. We can fix that. Let's start by
 deleting the old position::
 
