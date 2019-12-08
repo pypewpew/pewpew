@@ -94,9 +94,9 @@ Connect your programmer to the 12-pin connector at the bottom as follows:
 +----------+------+
 |RST       | R    |
 +----------+------+
-|VCC       | +    |
+|VCC       | ``+``|
 +----------+------+
-|GND       | -    |
+|GND       | ``-``|
 +----------+------+
 
 While programming, the device needs to be powered either from battery, from
@@ -122,7 +122,7 @@ Firmware
 --------
 
 The CircuitPython firmware can be downloaded form the `official CircuitPython
-downloads page <http://circuitpython.org/downloads>`. The UF2 file just needs
+downloads page <http://circuitpython.org/downloads>`_. The UF2 file just needs
 to be copied over USB to the ``PEWBOOT`` disk.
 
 
