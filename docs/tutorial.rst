@@ -37,7 +37,7 @@ slow enough to see the movements, but not too slow::
 
 Now, we will need an image that we will display on the screen. In PewPew,
 images are represented as ``Pix`` objects. So we can create an empty image the
-size of the display, and display it in out loop::
+size of the display, and display it in our loop::
 
     import pew
 
@@ -82,7 +82,7 @@ Now let's make the pixel actually move::
         pew.tick(1/12)
 
 After running this, you will see a diagonal line on the display. That's because
-the old positions of the pixel are not getting deleted, and because the pixel
+the old positions of the pixel are not getting deleted. And the pixel
 keeps on going forever outside the screen. We can fix that. Let's start by
 deleting the old position::
 

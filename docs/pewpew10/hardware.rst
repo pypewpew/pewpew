@@ -28,6 +28,8 @@ battery holder. The batteries are required for operation, it can't be powered
 from the USB port. There is also a 12-pin connector on the back of the device
 that can be used for connecting other electronic devices.
 
+.. _12-pin-connector:
+
 The 12-pin Connector
 ====================
 
@@ -58,6 +60,32 @@ The 12-pin Connector
 You can insert a male header into the holes at the back of the device and plug
 it into a breadboard to easily gain access to the pins.
 
+
+Updating the Firmware
+=====================
+
+1. Download a ``.uf2`` file from `https://circuitpython.org/board/pewpew10/ <https://circuitpython.org/board/pewpew10/>`_.
+2. Connect the PewPew to your computer using a USB cable. It appears as a disk
+   named *CIRCUITPY*.
+3. Back up all your files, as the update might delete them.
+4. "Eject" or "safely remove" the ``CIRCUITPY`` disk.
+5. Connect the ``R`` and ``-`` pins on the :ref:`12-pin connector
+   <12-pin-connector>` twice in short succession, like a double-click. Seen from
+   the front, these are the two rightmost pins. If you added a male pin header,
+   this is easily done by touching any metal part to the two pins. The PewPew
+   display should go black and a disk named *TRINKETBOOT* should appear.
+6. If the *CIRCUITPY* disk reappears instead and the PewPew display shows the
+   scrolling menu (or whatever else you installed as ``main.py``), try the
+   double-click again, it can take a few tries to get the rhythm right.
+7. Copy the downloaded ``.uf2`` file to the *TRINKETBOOT* disk. When it’s done,
+   which should take no longer than a few seconds, *TRINKETBOOT* disappears,
+   *CIRCUITPY* reappears, and your PewPew is now running the new CircuitPython
+   version.
+8. If needed, copy all your files back. Also, if you upgraded to a new major
+   version, you will need to replace any ``.mpy`` files you have on your device,
+   with ones compiled for the new version.
+
+
 Open Development
 ================
 
@@ -67,7 +95,7 @@ inspect how it is build, build your own, improve and extend the design, and
 even sell your own versions.
 
 The designs are available in the
-`project's repository <https://github.com/deshipu/pewpew>`_.
+`project's repository <https://github.com/pewpew-game>`_.
 
 
 Buy a Kit
