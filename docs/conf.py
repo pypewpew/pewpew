@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'PewPew FeatherWing'
+project = u'PewPew'
 copyright = u'2017, Radomir Dopieralski'
 author = u'Radomir Dopieralski'
 

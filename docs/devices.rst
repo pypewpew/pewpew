@@ -10,3 +10,4 @@ can even build your own device!
 
     pewpewlite/overview.rst
     pewpew10/overview.rst
+    pewpew-m4/overview.rst
