@@ -154,7 +154,7 @@ want to modify the provided designs. Please also note that the design files
 include dimensions, which should be ignored by the cutter.
 
 
-Bill of materials
+Bill of Materials
 ------------------
 
 +-------------------------------------+--------+------------------------------------------------+
@@ -171,4 +171,4 @@ Project Reposiotory
 ===================
 
 All the design files can be found in the `project's repository
-<http://github.com/pewpew-game/pewpewp-m4-v8>`_.
+<https://github.com/pewpew-game/pewpew-m4-v8>`_.
