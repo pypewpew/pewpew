@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32px" height="32px" viewBox="0 0 32 32">
+	<g id="icon">
+		<rect x="0.5" y="0.5" width="31" height="31" rx="4" style="fill:#FFCCCC;stroke:#990000;stroke-width:1;"/>
+		<text x="16" y="21" text-anchor="middle" style="font-family:'Droid Sans';font-size:14px;">Pew</text>
+	</g>
+</svg>
