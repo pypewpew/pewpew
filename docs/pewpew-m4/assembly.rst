@@ -11,7 +11,7 @@ Schematic
 
 This is the schematic of the device.
 
-.. image:: pewpew-m4-v8-schematic.svg
+.. image:: pewpew-m4-v8-schematic.*
     :align: center
     :width: 100%
 
@@ -22,10 +22,10 @@ Printed Circuit Board
 A printed circuit board is necessary for assembling the electronic part of the
 console. You can find the gerber files in the project's repository.
 
-.. image:: pewpew-m4-v8-pcb-top.svg
+.. image:: pewpew-m4-v8-pcb-top.*
     :width: 40%
 
-.. image:: pewpew-m4-v8-pcb-bottom.svg
+.. image:: pewpew-m4-v8-pcb-bottom.*
     :width: 40%
 
 If you need to make modifications to the PCB designs, the Fritzing file is also
@@ -133,7 +133,7 @@ The case consists of two layers of acrylic parts, held together with six
 screws, and four button caps, attached to the switches with pieces of two-sided
 tape or glue. The whole assembly is shown below.
 
-.. image:: pewpew-m4-v8-assembly.svg
+.. image:: pewpew-m4-v8-assembly.*
     :align: center
     :width: 100%
 
@@ -143,10 +143,10 @@ Acrylic Layers
 
 The acrylic parts are laser-cut from 2mm clear and 3mm translucent sheets.
 
-.. image:: pewpew-m4-v8-3mm.svg
+.. image:: pewpew-m4-v8-3mm.*
     :width: 40%
 
-.. image:: pewpew-m4-v8-2mm.svg
+.. image:: pewpew-m4-v8-2mm.*
     :width: 40%
 
 It's possible to cut more than one set of parts from a single sheet, so you may
