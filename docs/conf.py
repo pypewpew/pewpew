@@ -127,7 +127,9 @@ latex_elements = {
     # Additional stuff for the LaTeX preamble.
     #
     # Hacks to get rid of the title and TOC only in the "handout" document
-    'preamble': r'\makeatletter\@ifclassloaded{sphinxhowto}{\renewcommand{\sphinxmaketitle}{}\renewcommand{\sphinxtableofcontents}{}}\makeatother',
+    'preamble': r'\makeatletter\@ifclassloaded{sphinxhowto}{\renewcommand{\sphinxmaketitle}{}\renewcommand{\sphinxtableofcontents}{}}\makeatother'
+    # wrap floating figures more tightly vertically and more loosely horizontally
+    '\setlength{\intextsep}{0mm}\setlength{\columnsep}{8mm}',
 
     # Latex figure (float) alignment
     #

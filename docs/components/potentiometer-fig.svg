@@ -1,0 +1,3620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.690556mm"
+   height="51.4mm"
+   viewBox="0 0 52.690556 51.4"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="potentiometer-fig.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.72070006"
+     inkscape:cx="397.53015"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1427"
+     inkscape:window-height="1035"
+     inkscape:window-x="2022"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid34975"
+       spacingx="1"
+       spacingy="1"
+       empspacing="5"
+       originx="0.095250048"
+       originy="-0.16668311" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0.09525004,-0.16668312)">
+    <g
+       id="g6565"
+       transform="translate(-133.53086,-28)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect34999"
+         width="10"
+         height="3"
+         x="155"
+         y="67" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 155,68.5 h -5 v 8"
+         id="path35183"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 165,68.5 h 5 v 7"
+         id="path35185"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:'Droid Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="150"
+         y="79.5"
+         id="text35687"><tspan
+           sodipodi:role="line"
+           id="tspan35685"
+           style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="150"
+           y="79.5">GND</tspan></text>
+      <path
+         style="font-variation-settings:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 160.00001,70 -0.66667,2 h 1.33333 z"
+         id="path42962"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="M 160,75.5 V 70"
+         id="path43208"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="path43443"
+         cx="170"
+         cy="76"
+         r="0.5" />
+      <circle
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="circle43909"
+         cx="160"
+         cy="76"
+         r="0.5" />
+      <path
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 148,76.5 h 4"
+         id="path43977"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:'Droid Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="160"
+         y="79.5"
+         id="text44241"><tspan
+           sodipodi:role="line"
+           id="tspan44239"
+           style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="160"
+           y="79.5">P5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:'Droid Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="170"
+         y="79.5"
+         id="text44245"><tspan
+           sodipodi:role="line"
+           id="tspan44243"
+           style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="170"
+           y="79.5">+3V</tspan></text>
+    </g>
+    <g
+       id="g14447"
+       transform="matrix(0.75,0,0,0.75,-1.8289589,0)">
+      <g
+         partID="57510"
+         id="g9644"
+         transform="scale(0.3527778)">
+        <g
+           transform="translate(43.0795,3.54271)"
+           id="g9642">
+          <g
+             id="breadboardbreadboard-8">
+            <g
+               id="background-6">
+              <rect
+                 width="129.839"
+                 fill="#d9d9d9"
+                 height="100.914"
+                 id="rect8443"
+                 x="0"
+                 y="0" />
+            </g>
+            <rect
+               width="90.5"
+               fill="#ccc9c9"
+               height="7.2519999"
+               x="19.67"
+               y="46.830002"
+               id="rect8446" />
+            <g
+               transform="translate(-4.5,-9)"
+               id="g9639">
+              <g
+                 id="sockets-3">
+                <g
+                   id="A1pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 9.427,19.858 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.072 2.394,2.396"
+                     id="path8448" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 14.214,19.858 c 0,1.319 -1.07,2.393 -2.394,2.393 -1.324,0 -2.395,-1.072 -2.395,-2.393"
+                     id="path8450" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="11.822"
+                     cy="19.857"
+                     id="circle8452" />
+                </g>
+                <g
+                   id="B1pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 9.427,27.058 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.071 2.394,2.396"
+                     id="path8455" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 14.214,27.058 c 0,1.321 -1.07,2.393 -2.394,2.393 -1.324,0 -2.395,-1.07 -2.395,-2.393 v 0"
+                     id="path8457" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="11.822"
+                     cy="27.056999"
+                     id="circle8459" />
+                </g>
+                <g
+                   id="C1pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 9.427,34.256 c 0,-1.319 1.071,-2.394 2.395,-2.394 1.324,0 2.394,1.072 2.394,2.394"
+                     id="path8462" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 14.214,34.256 c 0,1.322 -1.07,2.396 -2.394,2.396 -1.324,0 -2.395,-1.072 -2.395,-2.396"
+                     id="path8464" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="11.822"
+                     cy="34.257"
+                     id="circle8466" />
+                </g>
+                <g
+                   id="D1pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 9.427,41.457 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.072 2.394,2.396"
+                     id="path8469" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 14.214,41.457 c 0,1.321 -1.07,2.394 -2.394,2.394 -1.324,0 -2.395,-1.07 -2.395,-2.394 v 0"
+                     id="path8471" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="11.822"
+                     cy="41.457001"
+                     id="circle8473" />
+                </g>
+                <g
+                   id="E1pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 9.427,48.657 c 0,-1.322 1.071,-2.394 2.395,-2.394 1.324,0 2.394,1.07 2.394,2.394"
+                     id="path8476" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 14.214,48.657 c 0,1.322 -1.07,2.395 -2.394,2.395 -1.324,0 -2.395,-1.072 -2.395,-2.395 v 0"
+                     id="path8478" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="11.822"
+                     cy="48.657001"
+                     id="circle8480" />
+                </g>
+                <g
+                   id="A2pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 16.627,19.858 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.072 2.394,2.396"
+                     id="path8483" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 21.414,19.858 c 0,1.319 -1.07,2.393 -2.393,2.395 -1.322,0 -2.396,-1.07 -2.396,-2.393 0,-0.002 0,-0.002 0,-0.002"
+                     id="path8485" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="19.021999"
+                     cy="19.857"
+                     id="circle8487" />
+                </g>
+                <g
+                   id="B2pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 16.627,27.058 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.071 2.394,2.396"
+                     id="path8490" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 21.414,27.058 c 0,1.321 -1.07,2.395 -2.393,2.395 -1.322,0.002 -2.396,-1.07 -2.396,-2.393 v -0.002"
+                     id="path8492" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="19.021999"
+                     cy="27.056999"
+                     id="circle8494" />
+                </g>
+                <g
+                   id="C2pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 16.627,34.256 c 0,-1.319 1.071,-2.394 2.395,-2.394 1.32,0 2.394,1.072 2.394,2.394"
+                     id="path8497" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 21.414,34.256 c 0,1.322 -1.07,2.396 -2.393,2.396 -1.323,0 -2.396,-1.069 -2.396,-2.393 0,-0.002 0,-0.002 0,-0.004"
+                     id="path8499" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="19.021999"
+                     cy="34.257"
+                     id="circle8501" />
+                </g>
+                <g
+                   id="D2pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 16.627,41.457 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.072 2.394,2.396"
+                     id="path8504" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 21.414,41.457 c 0,1.321 -1.07,2.396 -2.393,2.396 -1.323,0 -2.396,-1.07 -2.396,-2.394 v -0.002"
+                     id="path8506" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="19.021999"
+                     cy="41.457001"
+                     id="circle8508" />
+                </g>
+                <g
+                   id="E2pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 16.627,48.657 c 0,-1.322 1.071,-2.394 2.395,-2.394 1.32,0 2.394,1.07 2.394,2.394"
+                     id="path8511" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 21.414,48.657 c 0,1.322 -1.07,2.395 -2.393,2.395 -1.322,0.002 -2.396,-1.07 -2.396,-2.391 0,-0.002 0,-0.002 0,-0.004"
+                     id="path8513" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="19.021999"
+                     cy="48.657001"
+                     id="circle8515" />
+                </g>
+                <g
+                   id="A3pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 23.826,19.858 c 0,-1.322 1.072,-2.396 2.395,-2.396 1.321,0 2.395,1.072 2.395,2.396"
+                     id="path8518" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 28.615,19.858 c 0,1.319 -1.072,2.393 -2.395,2.393 -1.321,0 -2.395,-1.072 -2.395,-2.393 v 0"
+                     id="path8520" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="26.221001"
+                     cy="19.857"
+                     id="circle8522" />
+                </g>
+                <g
+                   id="B3pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 23.826,27.058 c 0,-1.322 1.072,-2.396 2.395,-2.396 1.321,0 2.395,1.071 2.395,2.396"
+                     id="path8525" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 28.615,27.058 c 0,1.321 -1.072,2.393 -2.395,2.393 -1.321,0 -2.395,-1.07 -2.395,-2.393"
+                     id="path8527" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="26.221001"
+                     cy="27.056999"
+                     id="circle8529" />
+                </g>
+                <g
+                   id="C3pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 23.826,34.256 c 0,-1.319 1.072,-2.394 2.395,-2.394 1.321,0 2.395,1.072 2.395,2.394"
+                     id="path8532" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 28.615,34.256 c 0,1.322 -1.072,2.396 -2.395,2.396 -1.321,0 -2.395,-1.072 -2.395,-2.396 v 0"
+                     id="path8534" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="26.221001"
+                     cy="34.257"
+                     id="circle8536" />
+                </g>
+                <g
+                   id="D3pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 23.826,41.457 c 0,-1.322 1.072,-2.396 2.395,-2.396 1.321,0 2.395,1.072 2.395,2.396"
+                     id="path8539" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 28.615,41.457 c 0,1.321 -1.072,2.394 -2.395,2.394 -1.321,0 -2.395,-1.07 -2.395,-2.394"
+                     id="path8541" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="26.221001"
+                     cy="41.457001"
+                     id="circle8543" />
+                </g>
+                <g
+                   id="E3pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 23.826,48.657 c 0,-1.322 1.072,-2.394 2.395,-2.394 1.321,0 2.395,1.07 2.395,2.394"
+                     id="path8546" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 28.615,48.657 c 0,1.322 -1.072,2.395 -2.395,2.395 -1.321,0 -2.395,-1.072 -2.395,-2.395"
+                     id="path8548" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="26.221001"
+                     cy="48.657001"
+                     id="circle8550" />
+                </g>
+                <g
+                   id="A4pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 31.028,19.858 c 0,-1.322 1.072,-2.396 2.394,-2.396 1.322,0 2.395,1.072 2.395,2.396"
+                     id="path8553" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 35.815,19.858 c 0,1.319 -1.071,2.393 -2.395,2.393 -1.32,0 -2.394,-1.072 -2.394,-2.393 v 0"
+                     id="path8555" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="33.419998"
+                     cy="19.857"
+                     id="circle8557" />
+                </g>
+                <g
+                   id="B4pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 31.028,27.058 c 0,-1.322 1.072,-2.396 2.394,-2.396 1.322,0 2.395,1.071 2.395,2.396"
+                     id="path8560" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 35.815,27.058 c 0,1.321 -1.071,2.393 -2.395,2.393 -1.32,0 -2.394,-1.07 -2.394,-2.393"
+                     id="path8562" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="33.419998"
+                     cy="27.056999"
+                     id="circle8564" />
+                </g>
+                <g
+                   id="C4pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 31.028,34.256 c 0,-1.319 1.072,-2.394 2.394,-2.394 1.322,0 2.395,1.072 2.395,2.394"
+                     id="path8567" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 35.815,34.256 c 0,1.322 -1.071,2.396 -2.395,2.396 -1.32,0 -2.394,-1.072 -2.394,-2.396 v 0"
+                     id="path8569" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="33.419998"
+                     cy="34.257"
+                     id="circle8571" />
+                </g>
+                <g
+                   id="D4pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 31.028,41.457 c 0,-1.322 1.072,-2.396 2.394,-2.396 1.322,0 2.395,1.072 2.395,2.396"
+                     id="path8574" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 35.815,41.457 c 0,1.321 -1.071,2.394 -2.395,2.394 -1.32,0 -2.394,-1.07 -2.394,-2.394"
+                     id="path8576" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="33.419998"
+                     cy="41.457001"
+                     id="circle8578" />
+                </g>
+                <g
+                   id="E4pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 31.028,48.657 c 0,-1.322 1.072,-2.394 2.394,-2.394 1.322,0 2.395,1.07 2.395,2.394"
+                     id="path8581" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 35.815,48.657 c 0,1.322 -1.071,2.395 -2.395,2.395 -1.32,0 -2.394,-1.072 -2.394,-2.395"
+                     id="path8583" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="33.419998"
+                     cy="48.657001"
+                     id="circle8585" />
+                </g>
+                <g
+                   id="A5pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 38.228,19.858 c 0,-1.322 1.07,-2.396 2.394,-2.396 1.324,0 2.395,1.072 2.395,2.396"
+                     id="path8588" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 43.015,19.858 c 0,1.319 -1.071,2.393 -2.395,2.393 -1.324,0 -2.394,-1.072 -2.394,-2.393 v 0"
+                     id="path8590" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="40.619999"
+                     cy="19.857"
+                     id="circle8592" />
+                </g>
+                <g
+                   id="B5pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 38.228,27.058 c 0,-1.322 1.07,-2.396 2.394,-2.396 1.324,0 2.395,1.071 2.395,2.396"
+                     id="path8595" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 43.015,27.058 c 0,1.321 -1.071,2.393 -2.395,2.393 -1.324,0 -2.394,-1.07 -2.394,-2.393"
+                     id="path8597" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="40.619999"
+                     cy="27.056999"
+                     id="circle8599" />
+                </g>
+                <g
+                   id="C5pin-9">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 38.228,34.256 c 0,-1.319 1.07,-2.394 2.394,-2.394 1.324,0 2.395,1.072 2.395,2.394"
+                     id="path8602" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 43.015,34.256 c 0,1.322 -1.071,2.396 -2.395,2.396 -1.324,0 -2.394,-1.072 -2.394,-2.396 v 0"
+                     id="path8604" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="40.619999"
+                     cy="34.257"
+                     id="circle8606" />
+                </g>
+                <g
+                   id="D5pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 38.228,41.457 c 0,-1.322 1.07,-2.396 2.394,-2.396 1.324,0 2.395,1.072 2.395,2.396"
+                     id="path8609" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 43.015,41.457 c 0,1.321 -1.071,2.394 -2.395,2.394 -1.324,0 -2.394,-1.07 -2.394,-2.394"
+                     id="path8611" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="40.619999"
+                     cy="41.457001"
+                     id="circle8613" />
+                </g>
+                <g
+                   id="E5pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 38.228,48.657 c 0,-1.322 1.07,-2.394 2.394,-2.394 1.324,0 2.395,1.07 2.395,2.394"
+                     id="path8616" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 43.015,48.657 c 0,1.322 -1.071,2.395 -2.395,2.395 -1.324,0 -2.394,-1.072 -2.394,-2.395"
+                     id="path8618" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="40.619999"
+                     cy="48.657001"
+                     id="circle8620" />
+                </g>
+                <g
+                   id="A6pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 45.427,19.858 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.072 2.394,2.396"
+                     id="path8623" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 50.214,19.858 c 0,1.319 -1.07,2.393 -2.394,2.393 -1.324,0 -2.395,-1.072 -2.395,-2.393 v 0"
+                     id="path8625" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="47.821999"
+                     cy="19.857"
+                     id="circle8627" />
+                </g>
+                <g
+                   id="B6pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 45.427,27.058 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.071 2.394,2.396"
+                     id="path8630" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 50.214,27.058 c 0,1.321 -1.07,2.393 -2.394,2.393 -1.324,0 -2.395,-1.07 -2.395,-2.393"
+                     id="path8632" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="47.821999"
+                     cy="27.056999"
+                     id="circle8634" />
+                </g>
+                <g
+                   id="C6pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 45.427,34.256 c 0,-1.319 1.071,-2.394 2.395,-2.394 1.324,0 2.394,1.072 2.394,2.394"
+                     id="path8637" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 50.214,34.256 c 0,1.322 -1.07,2.396 -2.394,2.396 -1.324,0 -2.395,-1.072 -2.395,-2.396 v 0"
+                     id="path8639" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="47.821999"
+                     cy="34.257"
+                     id="circle8641" />
+                </g>
+                <g
+                   id="D6pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 45.427,41.457 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.072 2.394,2.396"
+                     id="path8644" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 50.214,41.457 c 0,1.321 -1.07,2.394 -2.394,2.394 -1.324,0 -2.395,-1.07 -2.395,-2.394"
+                     id="path8646" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="47.821999"
+                     cy="41.457001"
+                     id="circle8648" />
+                </g>
+                <g
+                   id="E6pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 45.427,48.657 c 0,-1.322 1.071,-2.394 2.395,-2.394 1.324,0 2.394,1.07 2.394,2.394"
+                     id="path8651" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 50.214,48.657 c 0,1.322 -1.07,2.395 -2.394,2.395 -1.324,0 -2.395,-1.072 -2.395,-2.395"
+                     id="path8653" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="47.821999"
+                     cy="48.657001"
+                     id="circle8655" />
+                </g>
+                <g
+                   id="A7pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 52.627,19.858 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.072 2.394,2.396"
+                     id="path8658" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 57.414,19.858 c 0,1.319 -1.072,2.393 -2.394,2.393 -1.322,0 -2.395,-1.072 -2.395,-2.393 v 0"
+                     id="path8660" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="55.021999"
+                     cy="19.857"
+                     id="circle8662" />
+                </g>
+                <g
+                   id="B7pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 52.627,27.058 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.071 2.394,2.396"
+                     id="path8665" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 57.414,27.058 c 0,1.321 -1.072,2.393 -2.394,2.393 -1.322,0 -2.395,-1.07 -2.395,-2.393"
+                     id="path8667" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="55.021999"
+                     cy="27.056999"
+                     id="circle8669" />
+                </g>
+                <g
+                   id="C7pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 52.627,34.256 c 0,-1.319 1.071,-2.394 2.395,-2.394 1.32,0 2.394,1.072 2.394,2.394"
+                     id="path8672" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 57.414,34.256 c 0,1.322 -1.072,2.396 -2.394,2.396 -1.322,0 -2.395,-1.072 -2.395,-2.396 v 0"
+                     id="path8674" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="55.021999"
+                     cy="34.257"
+                     id="circle8676" />
+                </g>
+                <g
+                   id="D7pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 52.627,41.457 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.072 2.394,2.396"
+                     id="path8679" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 57.414,41.457 c 0,1.321 -1.072,2.394 -2.394,2.394 -1.322,0 -2.395,-1.07 -2.395,-2.394"
+                     id="path8681" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="55.021999"
+                     cy="41.457001"
+                     id="circle8683" />
+                </g>
+                <g
+                   id="E7pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 52.627,48.657 c 0,-1.322 1.071,-2.394 2.395,-2.394 1.32,0 2.394,1.07 2.394,2.394"
+                     id="path8686" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 57.414,48.657 c 0,1.322 -1.072,2.395 -2.394,2.395 -1.322,0 -2.395,-1.072 -2.395,-2.395"
+                     id="path8688" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="55.021999"
+                     cy="48.657001"
+                     id="circle8690" />
+                </g>
+                <g
+                   id="A8pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 59.826,19.858 c 0,-1.322 1.072,-2.396 2.395,-2.396 1.321,0 2.393,1.072 2.393,2.396"
+                     id="path8693" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 64.614,19.858 c 0,1.319 -1.07,2.393 -2.393,2.393 -1.323,0 -2.395,-1.072 -2.395,-2.393 v 0"
+                     id="path8695" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="62.221001"
+                     cy="19.857"
+                     id="circle8697" />
+                </g>
+                <g
+                   id="B8pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 59.826,27.058 c 0,-1.322 1.072,-2.396 2.395,-2.396 1.321,0 2.393,1.071 2.393,2.396"
+                     id="path8700" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 64.614,27.058 c 0,1.321 -1.07,2.393 -2.393,2.393 -1.323,0 -2.395,-1.07 -2.395,-2.393"
+                     id="path8702" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="62.221001"
+                     cy="27.056999"
+                     id="circle8704" />
+                </g>
+                <g
+                   id="C8pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 59.826,34.256 c 0,-1.319 1.072,-2.394 2.395,-2.394 1.321,0 2.393,1.072 2.393,2.394"
+                     id="path8707" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 64.614,34.256 c 0,1.322 -1.07,2.396 -2.393,2.396 -1.323,0 -2.395,-1.072 -2.395,-2.396 v 0"
+                     id="path8709" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="62.221001"
+                     cy="34.257"
+                     id="circle8711" />
+                </g>
+                <g
+                   id="D8pin-9">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 59.826,41.457 c 0,-1.322 1.072,-2.396 2.395,-2.396 1.321,0 2.393,1.072 2.393,2.396"
+                     id="path8714" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 64.614,41.457 c 0,1.321 -1.07,2.394 -2.393,2.394 -1.323,0 -2.395,-1.07 -2.395,-2.394"
+                     id="path8716" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="62.221001"
+                     cy="41.457001"
+                     id="circle8718" />
+                </g>
+                <g
+                   id="E8pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 59.826,48.657 c 0,-1.322 1.072,-2.394 2.395,-2.394 1.321,0 2.393,1.07 2.393,2.394"
+                     id="path8721" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 64.614,48.657 c 0,1.322 -1.07,2.395 -2.393,2.395 -1.323,0 -2.395,-1.072 -2.395,-2.395"
+                     id="path8723" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="62.221001"
+                     cy="48.657001"
+                     id="circle8725" />
+                </g>
+                <g
+                   id="A9pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 67.028,19.858 c 0,-1.322 1.072,-2.396 2.393,-2.396 1.323,0 2.396,1.072 2.396,2.396"
+                     id="path8728" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 71.815,19.858 c 0,1.319 -1.071,2.393 -2.396,2.393 -1.319,0 -2.393,-1.072 -2.393,-2.393 v 0"
+                     id="path8730" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="69.419998"
+                     cy="19.857"
+                     id="circle8732" />
+                </g>
+                <g
+                   id="B9pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 67.028,27.058 c 0,-1.322 1.072,-2.396 2.393,-2.396 1.323,0 2.396,1.071 2.396,2.396"
+                     id="path8735" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 71.815,27.058 c 0,1.321 -1.071,2.393 -2.396,2.393 -1.319,0 -2.393,-1.07 -2.393,-2.393"
+                     id="path8737" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="69.419998"
+                     cy="27.056999"
+                     id="circle8739" />
+                </g>
+                <g
+                   id="C9pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 67.028,34.256 c 0,-1.319 1.072,-2.394 2.393,-2.394 1.323,0 2.396,1.072 2.396,2.394"
+                     id="path8742" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 71.815,34.256 c 0,1.322 -1.071,2.396 -2.396,2.396 -1.319,0 -2.393,-1.072 -2.393,-2.396 v 0"
+                     id="path8744" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="69.419998"
+                     cy="34.257"
+                     id="circle8746" />
+                </g>
+                <g
+                   id="D9pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 67.028,41.457 c 0,-1.322 1.072,-2.396 2.393,-2.396 1.323,0 2.396,1.072 2.396,2.396"
+                     id="path8749" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 71.815,41.457 c 0,1.321 -1.071,2.394 -2.396,2.394 -1.319,0 -2.393,-1.07 -2.393,-2.394"
+                     id="path8751" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="69.419998"
+                     cy="41.457001"
+                     id="circle8753" />
+                </g>
+                <g
+                   id="E9pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 67.028,48.657 c 0,-1.322 1.072,-2.394 2.393,-2.394 1.323,0 2.396,1.07 2.396,2.394"
+                     id="path8756" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 71.815,48.657 c 0,1.322 -1.071,2.395 -2.396,2.395 -1.319,0 -2.393,-1.072 -2.393,-2.395"
+                     id="path8758" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="69.419998"
+                     cy="48.657001"
+                     id="circle8760" />
+                </g>
+                <g
+                   id="A10pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 74.227,19.858 c 0,-1.322 1.071,-2.396 2.396,-2.396 1.323,0 2.394,1.072 2.394,2.396"
+                     id="path8763" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 79.014,19.858 c 0,1.319 -1.07,2.393 -2.394,2.393 -1.324,0 -2.396,-1.072 -2.396,-2.393 v 0"
+                     id="path8765" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="76.621002"
+                     cy="19.857"
+                     id="circle8767" />
+                </g>
+                <g
+                   id="B10pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 74.227,27.058 c 0,-1.322 1.071,-2.396 2.396,-2.396 1.323,0 2.394,1.071 2.394,2.396"
+                     id="path8770" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 79.014,27.058 c 0,1.321 -1.07,2.393 -2.394,2.393 -1.324,0 -2.396,-1.07 -2.396,-2.393"
+                     id="path8772" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="76.621002"
+                     cy="27.056999"
+                     id="circle8774" />
+                </g>
+                <g
+                   id="C10pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 74.227,34.256 c 0,-1.319 1.071,-2.394 2.396,-2.394 1.323,0 2.394,1.072 2.394,2.394"
+                     id="path8777" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 79.014,34.256 c 0,1.322 -1.07,2.396 -2.394,2.396 -1.324,0 -2.396,-1.072 -2.396,-2.396 v 0"
+                     id="path8779" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="76.621002"
+                     cy="34.257"
+                     id="circle8781" />
+                </g>
+                <g
+                   id="D10pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 74.227,41.457 c 0,-1.322 1.071,-2.396 2.396,-2.396 1.323,0 2.394,1.072 2.394,2.396"
+                     id="path8784" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 79.014,41.457 c 0,1.321 -1.07,2.394 -2.394,2.394 -1.324,0 -2.396,-1.07 -2.396,-2.394"
+                     id="path8786" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="76.621002"
+                     cy="41.457001"
+                     id="circle8788" />
+                </g>
+                <g
+                   id="E10pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 74.227,48.657 c 0,-1.322 1.071,-2.394 2.396,-2.394 1.323,0 2.394,1.07 2.394,2.394"
+                     id="path8791" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 79.014,48.657 c 0,1.322 -1.07,2.395 -2.394,2.395 -1.324,0 -2.396,-1.072 -2.396,-2.395"
+                     id="path8793" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="76.621002"
+                     cy="48.657001"
+                     id="circle8795" />
+                </g>
+                <g
+                   id="A11pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 81.428,19.858 c 0,-1.322 1.069,-2.396 2.394,-2.396 1.325,0 2.395,1.072 2.395,2.396"
+                     id="path8798" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 86.214,19.858 c 0,1.319 -1.07,2.393 -2.395,2.393 -1.325,0 -2.395,-1.072 -2.395,-2.393 v 0"
+                     id="path8800" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="83.820999"
+                     cy="19.857"
+                     id="circle8802" />
+                </g>
+                <g
+                   id="B11pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 81.428,27.058 c 0,-1.322 1.069,-2.396 2.394,-2.396 1.325,0 2.395,1.071 2.395,2.396"
+                     id="path8805" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 86.214,27.058 c 0,1.321 -1.07,2.393 -2.395,2.393 -1.325,0 -2.395,-1.07 -2.395,-2.393"
+                     id="path8807" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="83.820999"
+                     cy="27.056999"
+                     id="circle8809" />
+                </g>
+                <g
+                   id="C11pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 81.428,34.256 c 0,-1.319 1.069,-2.394 2.394,-2.394 1.325,0 2.395,1.072 2.395,2.394"
+                     id="path8812" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 86.214,34.256 c 0,1.322 -1.07,2.396 -2.395,2.396 -1.325,0 -2.395,-1.072 -2.395,-2.396 v 0"
+                     id="path8814" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="83.820999"
+                     cy="34.257"
+                     id="circle8816" />
+                </g>
+                <g
+                   id="D11pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 81.428,41.457 c 0,-1.322 1.069,-2.396 2.394,-2.396 1.325,0 2.395,1.072 2.395,2.396"
+                     id="path8819" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 86.214,41.457 c 0,1.321 -1.07,2.394 -2.395,2.394 -1.325,0 -2.395,-1.07 -2.395,-2.394"
+                     id="path8821" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="83.820999"
+                     cy="41.457001"
+                     id="circle8823" />
+                </g>
+                <g
+                   id="E11pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 81.428,48.657 c 0,-1.322 1.069,-2.394 2.394,-2.394 1.325,0 2.395,1.07 2.395,2.394"
+                     id="path8826" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 86.214,48.657 c 0,1.322 -1.07,2.395 -2.395,2.395 -1.325,0 -2.395,-1.072 -2.395,-2.395"
+                     id="path8828" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="83.820999"
+                     cy="48.657001"
+                     id="circle8830" />
+                </g>
+                <g
+                   id="A12pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 88.626,19.858 c 0,-1.322 1.072,-2.396 2.396,-2.396 1.318,0 2.393,1.072 2.393,2.396"
+                     id="path8833" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 93.414,19.858 c 0,1.319 -1.072,2.393 -2.393,2.393 -1.322,0 -2.396,-1.072 -2.396,-2.393 v 0"
+                     id="path8835" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="91.022003"
+                     cy="19.857"
+                     id="circle8837" />
+                </g>
+                <g
+                   id="B12pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 88.626,27.058 c 0,-1.322 1.072,-2.396 2.396,-2.396 1.318,0 2.393,1.071 2.393,2.396"
+                     id="path8840" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 93.414,27.058 c 0,1.321 -1.072,2.393 -2.393,2.393 -1.322,0 -2.396,-1.07 -2.396,-2.393"
+                     id="path8842" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="91.022003"
+                     cy="27.056999"
+                     id="circle8844" />
+                </g>
+                <g
+                   id="C12pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 88.626,34.256 c 0,-1.319 1.072,-2.394 2.396,-2.394 1.318,0 2.393,1.072 2.393,2.394"
+                     id="path8847" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 93.414,34.256 c 0,1.322 -1.072,2.396 -2.393,2.396 -1.322,0 -2.396,-1.072 -2.396,-2.396 v 0"
+                     id="path8849" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="91.022003"
+                     cy="34.257"
+                     id="circle8851" />
+                </g>
+                <g
+                   id="D12pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 88.626,41.457 c 0,-1.322 1.072,-2.396 2.396,-2.396 1.318,0 2.393,1.072 2.393,2.396"
+                     id="path8854" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 93.414,41.457 c 0,1.321 -1.072,2.394 -2.393,2.394 -1.322,0 -2.396,-1.07 -2.396,-2.394"
+                     id="path8856" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="91.022003"
+                     cy="41.457001"
+                     id="circle8858" />
+                </g>
+                <g
+                   id="E12pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 88.626,48.657 c 0,-1.322 1.072,-2.394 2.396,-2.394 1.318,0 2.393,1.07 2.393,2.394"
+                     id="path8861" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 93.414,48.657 c 0,1.322 -1.072,2.395 -2.393,2.395 -1.322,0 -2.396,-1.072 -2.396,-2.395"
+                     id="path8863" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="91.022003"
+                     cy="48.657001"
+                     id="circle8865" />
+                </g>
+                <g
+                   id="A13pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 95.826,19.858 c 0,-1.322 1.072,-2.396 2.396,-2.396 1.322,0 2.393,1.072 2.393,2.396"
+                     id="path8868" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 100.614,19.858 c 0,1.319 -1.069,2.393 -2.393,2.393 -1.324,0 -2.396,-1.072 -2.396,-2.393 v 0"
+                     id="path8870" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="98.221001"
+                     cy="19.857"
+                     id="circle8872" />
+                </g>
+                <g
+                   id="B13pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 95.826,27.058 c 0,-1.322 1.072,-2.396 2.396,-2.396 1.322,0 2.393,1.071 2.393,2.396"
+                     id="path8875" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 100.614,27.058 c 0,1.321 -1.069,2.393 -2.393,2.393 -1.324,0 -2.396,-1.07 -2.396,-2.393"
+                     id="path8877" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="98.221001"
+                     cy="27.056999"
+                     id="circle8879" />
+                </g>
+                <g
+                   id="C13pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 95.826,34.256 c 0,-1.319 1.072,-2.394 2.396,-2.394 1.322,0 2.393,1.072 2.393,2.394"
+                     id="path8882" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 100.614,34.256 c 0,1.322 -1.069,2.396 -2.393,2.396 -1.324,0 -2.396,-1.072 -2.396,-2.396 v 0"
+                     id="path8884" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="98.221001"
+                     cy="34.257"
+                     id="circle8886" />
+                </g>
+                <g
+                   id="D13pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 95.826,41.457 c 0,-1.322 1.072,-2.396 2.396,-2.396 1.322,0 2.393,1.072 2.393,2.396"
+                     id="path8889" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 100.614,41.457 c 0,1.321 -1.069,2.394 -2.393,2.394 -1.324,0 -2.396,-1.07 -2.396,-2.394"
+                     id="path8891" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="98.221001"
+                     cy="41.457001"
+                     id="circle8893" />
+                </g>
+                <g
+                   id="E13pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 95.826,48.657 c 0,-1.322 1.072,-2.394 2.396,-2.394 1.322,0 2.393,1.07 2.393,2.394"
+                     id="path8896" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 100.614,48.657 c 0,1.322 -1.069,2.395 -2.393,2.395 -1.324,0 -2.396,-1.072 -2.396,-2.395"
+                     id="path8898" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="98.221001"
+                     cy="48.657001"
+                     id="circle8900" />
+                </g>
+                <g
+                   id="A14pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 103.028,19.858 c 0,-1.322 1.07,-2.396 2.394,-2.396 1.322,0 2.396,1.072 2.396,2.396"
+                     id="path8903" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 107.815,19.858 c 0,1.319 -1.071,2.393 -2.396,2.393 -1.322,0 -2.394,-1.072 -2.394,-2.393 v 0"
+                     id="path8905" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="105.419"
+                     cy="19.857"
+                     id="circle8907" />
+                </g>
+                <g
+                   id="B14pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 103.028,27.058 c 0,-1.322 1.07,-2.396 2.394,-2.396 1.322,0 2.396,1.071 2.396,2.396"
+                     id="path8910" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 107.815,27.058 c 0,1.321 -1.071,2.393 -2.396,2.393 -1.322,0 -2.394,-1.07 -2.394,-2.393"
+                     id="path8912" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="105.419"
+                     cy="27.056999"
+                     id="circle8914" />
+                </g>
+                <g
+                   id="C14pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 103.028,34.256 c 0,-1.319 1.07,-2.394 2.394,-2.394 1.322,0 2.396,1.072 2.396,2.394"
+                     id="path8917" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 107.815,34.256 c 0,1.322 -1.071,2.396 -2.396,2.396 -1.322,0 -2.394,-1.072 -2.394,-2.396 v 0"
+                     id="path8919" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="105.419"
+                     cy="34.257"
+                     id="circle8921" />
+                </g>
+                <g
+                   id="D14pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 103.028,41.457 c 0,-1.322 1.07,-2.396 2.394,-2.396 1.322,0 2.396,1.072 2.396,2.396"
+                     id="path8924" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 107.815,41.457 c 0,1.321 -1.071,2.394 -2.396,2.394 -1.322,0 -2.394,-1.07 -2.394,-2.394"
+                     id="path8926" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="105.419"
+                     cy="41.457001"
+                     id="circle8928" />
+                </g>
+                <g
+                   id="E14pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 103.028,48.657 c 0,-1.322 1.07,-2.394 2.394,-2.394 1.322,0 2.396,1.07 2.396,2.394"
+                     id="path8931" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 107.815,48.657 c 0,1.322 -1.071,2.395 -2.396,2.395 -1.322,0 -2.394,-1.072 -2.394,-2.395"
+                     id="path8933" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="105.419"
+                     cy="48.657001"
+                     id="circle8935" />
+                </g>
+                <g
+                   id="A15pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 110.227,19.858 c 0.002,-1.322 1.075,-2.394 2.397,-2.392 1.317,0.002 2.387,1.07 2.39,2.392"
+                     id="path8938" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 115.014,19.858 c 0.002,1.319 -1.068,2.395 -2.39,2.396 -1.322,0.002 -2.396,-1.067 -2.397,-2.392 0,-0.002 0,-0.004 0,-0.006"
+                     id="path8940" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="112.621"
+                     cy="19.857"
+                     id="circle8942" />
+                </g>
+                <g
+                   id="B15pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 110.227,27.058 c 0.002,-1.322 1.075,-2.394 2.397,-2.392 1.317,0.002 2.387,1.071 2.39,2.392"
+                     id="path8945" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 115.014,27.058 c 0.002,1.321 -1.068,2.395 -2.39,2.396 -1.322,0.002 -2.396,-1.068 -2.397,-2.39 0,-0.004 0,-0.006 0,-0.008"
+                     id="path8947" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="112.621"
+                     cy="27.056999"
+                     id="circle8949" />
+                </g>
+                <g
+                   id="C15pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 110.227,34.256 c 0.002,-1.319 1.075,-2.392 2.397,-2.39 1.317,0.003 2.387,1.07 2.39,2.39"
+                     id="path8952" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 115.014,34.256 c 0.002,1.322 -1.068,2.396 -2.39,2.397 -1.322,0.002 -2.396,-1.067 -2.397,-2.391 0,-0.002 0,-0.004 0,-0.008"
+                     id="path8954" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="112.621"
+                     cy="34.257"
+                     id="circle8956" />
+                </g>
+                <g
+                   id="D15pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 110.227,41.457 c 0.002,-1.322 1.075,-2.394 2.397,-2.392 1.317,0.002 2.387,1.07 2.39,2.392"
+                     id="path8959" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 115.014,41.457 c 0.002,1.321 -1.068,2.396 -2.39,2.396 -1.322,0.002 -2.396,-1.067 -2.397,-2.391 0,-0.002 0,-0.004 0,-0.006"
+                     id="path8961" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="112.621"
+                     cy="41.457001"
+                     id="circle8963" />
+                </g>
+                <g
+                   id="E15pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 110.227,48.657 c 0.002,-1.322 1.075,-2.394 2.397,-2.391 1.317,0.002 2.387,1.071 2.39,2.391"
+                     id="path8966" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 115.014,48.657 c 0.002,1.322 -1.068,2.395 -2.39,2.396 -1.322,0.005 -2.396,-1.065 -2.397,-2.389 0,-0.002 0,-0.007 0,-0.009"
+                     id="path8968" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="112.621"
+                     cy="48.657001"
+                     id="circle8970" />
+                </g>
+                <g
+                   id="A16pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 117.428,19.858 c 0.003,-1.322 1.073,-2.394 2.396,-2.392 1.318,0.002 2.389,1.07 2.391,2.392"
+                     id="path8973" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 122.214,19.858 c 0.002,1.319 -1.066,2.395 -2.391,2.396 -1.325,10e-4 -2.395,-1.067 -2.396,-2.392 0,-0.002 0,-0.004 0,-0.006"
+                     id="path8975" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="119.821"
+                     cy="19.857"
+                     id="circle8977" />
+                </g>
+                <g
+                   id="B16pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 117.428,27.058 c 0.003,-1.322 1.073,-2.394 2.396,-2.392 1.318,0.002 2.389,1.071 2.391,2.392"
+                     id="path8980" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 122.214,27.058 c 0.002,1.321 -1.066,2.395 -2.391,2.396 -1.325,10e-4 -2.395,-1.068 -2.396,-2.39 0,-0.004 0,-0.006 0,-0.008"
+                     id="path8982" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="119.821"
+                     cy="27.056999"
+                     id="circle8984" />
+                </g>
+                <g
+                   id="C16pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 117.428,34.256 c 0.003,-1.319 1.073,-2.392 2.396,-2.39 1.318,0.003 2.389,1.07 2.391,2.39"
+                     id="path8987" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 122.214,34.256 c 0.002,1.322 -1.066,2.396 -2.391,2.397 -1.325,0.001 -2.395,-1.067 -2.396,-2.391 0,-0.002 0,-0.004 0,-0.008"
+                     id="path8989" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="119.821"
+                     cy="34.257"
+                     id="circle8991" />
+                </g>
+                <g
+                   id="D16pin-9">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 117.428,41.457 c 0.003,-1.322 1.073,-2.394 2.396,-2.392 1.318,0.002 2.389,1.07 2.391,2.392"
+                     id="path8994" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 122.214,41.457 c 0.002,1.321 -1.066,2.396 -2.391,2.396 -1.322,0.002 -2.395,-1.067 -2.396,-2.391 0,-0.002 0,-0.004 0,-0.006"
+                     id="path8996" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="119.821"
+                     cy="41.457001"
+                     id="circle8998" />
+                </g>
+                <g
+                   id="E16pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 117.428,48.657 c 0.003,-1.322 1.073,-2.394 2.396,-2.391 1.318,0.002 2.389,1.071 2.391,2.391"
+                     id="path9001" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 122.214,48.657 c 0.002,1.322 -1.066,2.395 -2.391,2.396 -1.322,0.005 -2.395,-1.065 -2.396,-2.389 0,-0.002 0,-0.007 0,-0.009"
+                     id="path9003" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="119.821"
+                     cy="48.657001"
+                     id="circle9005" />
+                </g>
+                <g
+                   id="A17pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 124.626,19.858 c 0.002,-1.322 1.074,-2.394 2.396,-2.392 1.318,0.002 2.389,1.07 2.391,2.392"
+                     id="path9008" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 129.414,19.858 c 0.002,1.319 -1.067,2.395 -2.392,2.396 -1.321,0.002 -2.396,-1.067 -2.396,-2.392 0,-0.002 0,-0.004 0,-0.006"
+                     id="path9010" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="127.02"
+                     cy="19.857"
+                     id="circle9012" />
+                </g>
+                <g
+                   id="B17pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 124.626,27.058 c 0.002,-1.322 1.074,-2.394 2.396,-2.392 1.318,0.002 2.389,1.071 2.391,2.392"
+                     id="path9015" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 129.414,27.058 c 0.002,1.321 -1.067,2.395 -2.392,2.396 -1.321,0.002 -2.396,-1.068 -2.396,-2.39 0,-0.004 0,-0.006 0,-0.008"
+                     id="path9017" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="127.02"
+                     cy="27.056999"
+                     id="circle9019" />
+                </g>
+                <g
+                   id="C17pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 124.626,34.256 c 0.002,-1.319 1.074,-2.392 2.396,-2.39 1.318,0.003 2.389,1.07 2.391,2.39"
+                     id="path9022" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 129.414,34.256 c 0.002,1.322 -1.067,2.396 -2.392,2.397 -1.321,0.002 -2.396,-1.067 -2.396,-2.391 0,-0.002 0,-0.004 0,-0.008"
+                     id="path9024" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="127.02"
+                     cy="34.257"
+                     id="circle9026" />
+                </g>
+                <g
+                   id="D17pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 124.626,41.457 c 0.002,-1.322 1.074,-2.394 2.396,-2.392 1.318,0.002 2.389,1.07 2.391,2.392"
+                     id="path9029" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 129.414,41.457 c 0.002,1.321 -1.067,2.396 -2.392,2.396 -1.321,0.002 -2.396,-1.067 -2.396,-2.391 0,-0.002 0,-0.004 0,-0.006"
+                     id="path9031" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="127.02"
+                     cy="41.457001"
+                     id="circle9033" />
+                </g>
+                <g
+                   id="E17pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 124.626,48.657 c 0.002,-1.322 1.074,-2.394 2.396,-2.391 1.318,0.002 2.389,1.071 2.391,2.391"
+                     id="path9036" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 129.414,48.657 c 0.002,1.322 -1.067,2.395 -2.392,2.396 -1.321,0.005 -2.396,-1.065 -2.396,-2.389 0,-0.002 0,-0.007 0,-0.009"
+                     id="path9038" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="127.02"
+                     cy="48.657001"
+                     id="circle9040" />
+                </g>
+                <g
+                   id="F1pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 9.427,70.256 c 0,-1.32 1.071,-2.395 2.395,-2.395 1.324,0 2.394,1.07 2.394,2.395"
+                     id="path9043" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 14.214,70.256 c 0,1.322 -1.07,2.396 -2.394,2.396 -1.324,0 -2.395,-1.072 -2.395,-2.396 v 0"
+                     id="path9045" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="11.822"
+                     cy="70.257004"
+                     id="circle9047" />
+                </g>
+                <g
+                   id="G1pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 9.427,77.457 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.072 2.394,2.396"
+                     id="path9050" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 14.214,77.457 c 0,1.32 -1.07,2.395 -2.394,2.395 -1.324,0 -2.395,-1.07 -2.395,-2.395 v 0"
+                     id="path9052" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="11.822"
+                     cy="77.456001"
+                     id="circle9054" />
+                </g>
+                <g
+                   id="H1pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 9.427,84.657 c 0,-1.322 1.071,-2.394 2.395,-2.394 1.324,0 2.394,1.069 2.394,2.394"
+                     id="path9057" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 14.214,84.657 c 0,1.321 -1.07,2.395 -2.394,2.395 -1.324,0 -2.395,-1.071 -2.395,-2.395"
+                     id="path9059" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="11.822"
+                     cy="84.656998"
+                     id="circle9061" />
+                </g>
+                <g
+                   id="I1pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 9.427,91.857 c 0,-1.321 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.072 2.394,2.396"
+                     id="path9064" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 14.214,91.857 c 0,1.319 -1.07,2.394 -2.394,2.394 -1.324,0 -2.395,-1.071 -2.395,-2.394 v 0"
+                     id="path9066" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="11.822"
+                     cy="91.857002"
+                     id="circle9068" />
+                </g>
+                <g
+                   id="J1pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 9.427,99.059 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.07 2.394,2.396"
+                     id="path9071" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 14.214,99.059 c 0,1.32 -1.07,2.393 -2.394,2.393 -1.324,0 -2.395,-1.07 -2.395,-2.393 v 0"
+                     id="path9073" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="11.822"
+                     cy="99.056999"
+                     id="circle9075" />
+                </g>
+                <g
+                   id="F2pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 16.627,70.256 c 0,-1.32 1.071,-2.395 2.395,-2.395 1.32,0 2.394,1.07 2.394,2.395"
+                     id="path9078" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 21.414,70.256 c 0,1.322 -1.07,2.396 -2.393,2.396 -1.323,0 -2.396,-1.069 -2.396,-2.394 0,-0.002 0,-0.002 0,-0.004"
+                     id="path9080" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="19.021999"
+                     cy="70.257004"
+                     id="circle9082" />
+                </g>
+                <g
+                   id="G2pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 16.627,77.457 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.072 2.394,2.396"
+                     id="path9085" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 21.414,77.457 c 0,1.32 -1.07,2.396 -2.393,2.396 -1.323,0 -2.396,-1.07 -2.396,-2.395 v -0.002"
+                     id="path9087" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="19.021999"
+                     cy="77.456001"
+                     id="circle9089" />
+                </g>
+                <g
+                   id="H2pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 16.627,84.657 c 0,-1.322 1.071,-2.394 2.395,-2.394 1.32,0 2.394,1.069 2.394,2.394"
+                     id="path9092" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 21.414,84.657 c 0,1.321 -1.07,2.395 -2.393,2.395 -1.322,0.003 -2.396,-1.069 -2.396,-2.393 0,0 0,0 0,-0.002"
+                     id="path9094" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="19.021999"
+                     cy="84.656998"
+                     id="circle9096" />
+                </g>
+                <g
+                   id="I2pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 16.627,91.857 c 0,-1.321 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.072 2.394,2.396"
+                     id="path9099" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 21.414,91.857 c 0,1.319 -1.07,2.394 -2.393,2.396 -1.322,0 -2.396,-1.069 -2.396,-2.394 0,-0.002 0,-0.002 0,-0.002"
+                     id="path9101" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="19.021999"
+                     cy="91.857002"
+                     id="circle9103" />
+                </g>
+                <g
+                   id="J2pin-9">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 16.627,99.059 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.07 2.394,2.396"
+                     id="path9106" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 21.414,99.059 c 0,1.32 -1.07,2.395 -2.393,2.395 -1.323,0 -2.396,-1.07 -2.396,-2.393 v -0.002"
+                     id="path9108" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="19.021999"
+                     cy="99.056999"
+                     id="circle9110" />
+                </g>
+                <g
+                   id="F3pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 23.826,70.256 c 0,-1.32 1.072,-2.395 2.395,-2.395 1.321,0 2.395,1.07 2.395,2.395"
+                     id="path9113" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 28.615,70.256 c 0,1.322 -1.072,2.396 -2.395,2.396 -1.321,0 -2.395,-1.072 -2.395,-2.396"
+                     id="path9115" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="26.221001"
+                     cy="70.257004"
+                     id="circle9117" />
+                </g>
+                <g
+                   id="G3pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 23.826,77.457 c 0,-1.322 1.072,-2.396 2.395,-2.396 1.321,0 2.395,1.072 2.395,2.396"
+                     id="path9120" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 28.615,77.457 c 0,1.32 -1.072,2.395 -2.395,2.395 -1.321,0 -2.395,-1.07 -2.395,-2.395"
+                     id="path9122" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="26.221001"
+                     cy="77.456001"
+                     id="circle9124" />
+                </g>
+                <g
+                   id="H3pin-9">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 23.826,84.657 c 0,-1.322 1.072,-2.394 2.395,-2.394 1.321,0 2.395,1.069 2.395,2.394"
+                     id="path9127" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 28.615,84.657 c 0,1.321 -1.072,2.395 -2.395,2.395 -1.321,0 -2.395,-1.071 -2.395,-2.395 v 0"
+                     id="path9129" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="26.221001"
+                     cy="84.656998"
+                     id="circle9131" />
+                </g>
+                <g
+                   id="I3pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 23.826,91.857 c 0,-1.321 1.072,-2.396 2.395,-2.396 1.321,0 2.395,1.072 2.395,2.396"
+                     id="path9134" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 28.615,91.857 c 0,1.319 -1.072,2.394 -2.395,2.394 -1.321,0 -2.395,-1.071 -2.395,-2.394"
+                     id="path9136" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="26.221001"
+                     cy="91.857002"
+                     id="circle9138" />
+                </g>
+                <g
+                   id="J3pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 23.826,99.059 c 0,-1.322 1.072,-2.396 2.395,-2.396 1.321,0 2.395,1.07 2.395,2.396"
+                     id="path9141" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 28.615,99.059 c 0,1.32 -1.072,2.393 -2.395,2.393 -1.321,0 -2.395,-1.07 -2.395,-2.393 v 0"
+                     id="path9143" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="26.221001"
+                     cy="99.056999"
+                     id="circle9145" />
+                </g>
+                <g
+                   id="F4pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 31.028,70.256 c 0,-1.32 1.072,-2.395 2.394,-2.395 1.322,0 2.395,1.07 2.395,2.395"
+                     id="path9148" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 35.815,70.256 c 0,1.322 -1.071,2.396 -2.395,2.396 -1.32,0 -2.394,-1.072 -2.394,-2.396"
+                     id="path9150" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="33.419998"
+                     cy="70.257004"
+                     id="circle9152" />
+                </g>
+                <g
+                   id="G4pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 31.028,77.457 c 0,-1.322 1.072,-2.396 2.394,-2.396 1.322,0 2.395,1.072 2.395,2.396"
+                     id="path9155" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 35.815,77.457 c 0,1.32 -1.071,2.395 -2.395,2.395 -1.32,0 -2.394,-1.07 -2.394,-2.395"
+                     id="path9157" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="33.419998"
+                     cy="77.456001"
+                     id="circle9159" />
+                </g>
+                <g
+                   id="H4pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 31.028,84.657 c 0,-1.322 1.072,-2.394 2.394,-2.394 1.322,0 2.395,1.069 2.395,2.394"
+                     id="path9162" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 35.815,84.657 c 0,1.321 -1.071,2.395 -2.395,2.395 -1.32,0 -2.394,-1.071 -2.394,-2.395 v 0"
+                     id="path9164" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="33.419998"
+                     cy="84.656998"
+                     id="circle9166" />
+                </g>
+                <g
+                   id="I4pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 31.028,91.857 c 0,-1.321 1.072,-2.396 2.394,-2.396 1.322,0 2.395,1.072 2.395,2.396"
+                     id="path9169" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 35.815,91.857 c 0,1.319 -1.071,2.394 -2.395,2.394 -1.32,0 -2.394,-1.071 -2.394,-2.394"
+                     id="path9171" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="33.419998"
+                     cy="91.857002"
+                     id="circle9173" />
+                </g>
+                <g
+                   id="J4pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 31.028,99.059 c 0,-1.322 1.072,-2.396 2.394,-2.396 1.322,0 2.395,1.07 2.395,2.396"
+                     id="path9176" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 35.815,99.059 c 0,1.32 -1.071,2.393 -2.395,2.393 -1.32,0 -2.394,-1.07 -2.394,-2.393 v 0"
+                     id="path9178" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="33.419998"
+                     cy="99.056999"
+                     id="circle9180" />
+                </g>
+                <g
+                   id="F5pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 38.228,70.256 c 0,-1.32 1.07,-2.395 2.394,-2.395 1.324,0 2.395,1.07 2.395,2.395"
+                     id="path9183" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 43.015,70.256 c 0,1.322 -1.071,2.396 -2.395,2.396 -1.324,0 -2.394,-1.072 -2.394,-2.396"
+                     id="path9185" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="40.619999"
+                     cy="70.257004"
+                     id="circle9187" />
+                </g>
+                <g
+                   id="G5pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 38.228,77.457 c 0,-1.322 1.07,-2.396 2.394,-2.396 1.324,0 2.395,1.072 2.395,2.396"
+                     id="path9190" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 43.015,77.457 c 0,1.32 -1.071,2.395 -2.395,2.395 -1.324,0 -2.394,-1.07 -2.394,-2.395"
+                     id="path9192" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="40.619999"
+                     cy="77.456001"
+                     id="circle9194" />
+                </g>
+                <g
+                   id="H5pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 38.228,84.657 c 0,-1.322 1.07,-2.394 2.394,-2.394 1.324,0 2.395,1.069 2.395,2.394"
+                     id="path9197" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 43.015,84.657 c 0,1.321 -1.071,2.395 -2.395,2.395 -1.324,0 -2.394,-1.071 -2.394,-2.395 v 0"
+                     id="path9199" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="40.619999"
+                     cy="84.656998"
+                     id="circle9201" />
+                </g>
+                <g
+                   id="I5pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 38.228,91.857 c 0,-1.321 1.07,-2.396 2.394,-2.396 1.324,0 2.395,1.072 2.395,2.396"
+                     id="path9204" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 43.015,91.857 c 0,1.319 -1.071,2.394 -2.395,2.394 -1.324,0 -2.394,-1.071 -2.394,-2.394"
+                     id="path9206" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="40.619999"
+                     cy="91.857002"
+                     id="circle9208" />
+                </g>
+                <g
+                   id="J5pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 38.228,99.059 c 0,-1.322 1.07,-2.396 2.394,-2.396 1.324,0 2.395,1.07 2.395,2.396"
+                     id="path9211" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 43.015,99.059 c 0,1.32 -1.071,2.393 -2.395,2.393 -1.324,0 -2.394,-1.07 -2.394,-2.393 v 0"
+                     id="path9213" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="40.619999"
+                     cy="99.056999"
+                     id="circle9215" />
+                </g>
+                <g
+                   id="F6pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 45.427,70.256 c 0,-1.32 1.071,-2.395 2.395,-2.395 1.324,0 2.394,1.07 2.394,2.395"
+                     id="path9218" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 50.214,70.256 c 0,1.322 -1.07,2.396 -2.394,2.396 -1.324,0 -2.395,-1.072 -2.395,-2.396"
+                     id="path9220" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="47.821999"
+                     cy="70.257004"
+                     id="circle9222" />
+                </g>
+                <g
+                   id="G6pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 45.427,77.457 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.072 2.394,2.396"
+                     id="path9225" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 50.214,77.457 c 0,1.32 -1.07,2.395 -2.394,2.395 -1.324,0 -2.395,-1.07 -2.395,-2.395"
+                     id="path9227" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="47.821999"
+                     cy="77.456001"
+                     id="circle9229" />
+                </g>
+                <g
+                   id="H6pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 45.427,84.657 c 0,-1.322 1.071,-2.394 2.395,-2.394 1.324,0 2.394,1.069 2.394,2.394"
+                     id="path9232" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 50.214,84.657 c 0,1.321 -1.07,2.395 -2.394,2.395 -1.324,0 -2.395,-1.071 -2.395,-2.395 v 0"
+                     id="path9234" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="47.821999"
+                     cy="84.656998"
+                     id="circle9236" />
+                </g>
+                <g
+                   id="I6pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 45.427,91.857 c 0,-1.321 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.072 2.394,2.396"
+                     id="path9239" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 50.214,91.857 c 0,1.319 -1.07,2.394 -2.394,2.394 -1.324,0 -2.395,-1.071 -2.395,-2.394"
+                     id="path9241" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="47.821999"
+                     cy="91.857002"
+                     id="circle9243" />
+                </g>
+                <g
+                   id="J6pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 45.427,99.059 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.324,0 2.394,1.07 2.394,2.396"
+                     id="path9246" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 50.214,99.059 c 0,1.32 -1.07,2.393 -2.394,2.393 -1.324,0 -2.395,-1.07 -2.395,-2.393 v 0"
+                     id="path9248" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="47.821999"
+                     cy="99.056999"
+                     id="circle9250" />
+                </g>
+                <g
+                   id="F7pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 52.627,70.256 c 0,-1.32 1.071,-2.395 2.395,-2.395 1.32,0 2.394,1.07 2.394,2.395"
+                     id="path9253" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 57.414,70.256 c 0,1.322 -1.072,2.396 -2.394,2.396 -1.322,0 -2.395,-1.072 -2.395,-2.396"
+                     id="path9255" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="55.021999"
+                     cy="70.257004"
+                     id="circle9257" />
+                </g>
+                <g
+                   id="G7pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 52.627,77.457 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.072 2.394,2.396"
+                     id="path9260" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 57.414,77.457 c 0,1.32 -1.072,2.395 -2.394,2.395 -1.322,0 -2.395,-1.07 -2.395,-2.395"
+                     id="path9262" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="55.021999"
+                     cy="77.456001"
+                     id="circle9264" />
+                </g>
+                <g
+                   id="H7pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 52.627,84.657 c 0,-1.322 1.071,-2.394 2.395,-2.394 1.32,0 2.394,1.069 2.394,2.394"
+                     id="path9267" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 57.414,84.657 c 0,1.321 -1.072,2.395 -2.394,2.395 -1.322,0 -2.395,-1.071 -2.395,-2.395 v 0"
+                     id="path9269" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="55.021999"
+                     cy="84.656998"
+                     id="circle9271" />
+                </g>
+                <g
+                   id="I7pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 52.627,91.857 c 0,-1.321 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.072 2.394,2.396"
+                     id="path9274" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 57.414,91.857 c 0,1.319 -1.072,2.394 -2.394,2.394 -1.322,0 -2.395,-1.071 -2.395,-2.394"
+                     id="path9276" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="55.021999"
+                     cy="91.857002"
+                     id="circle9278" />
+                </g>
+                <g
+                   id="J7pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 52.627,99.059 c 0,-1.322 1.071,-2.396 2.395,-2.396 1.32,0 2.394,1.07 2.394,2.396"
+                     id="path9281" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 57.414,99.059 c 0,1.32 -1.072,2.393 -2.394,2.393 -1.322,0 -2.395,-1.07 -2.395,-2.393 v 0"
+                     id="path9283" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="55.021999"
+                     cy="99.056999"
+                     id="circle9285" />
+                </g>
+                <g
+                   id="F8pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 59.826,70.256 c 0,-1.32 1.072,-2.395 2.395,-2.395 1.321,0 2.393,1.07 2.393,2.395"
+                     id="path9288" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 64.614,70.256 c 0,1.322 -1.07,2.396 -2.393,2.396 -1.323,0 -2.395,-1.072 -2.395,-2.396"
+                     id="path9290" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="62.221001"
+                     cy="70.257004"
+                     id="circle9292" />
+                </g>
+                <g
+                   id="G8pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 59.826,77.457 c 0,-1.322 1.072,-2.396 2.395,-2.396 1.321,0 2.393,1.072 2.393,2.396"
+                     id="path9295" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 64.614,77.457 c 0,1.32 -1.07,2.395 -2.393,2.395 -1.323,0 -2.395,-1.07 -2.395,-2.395"
+                     id="path9297" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="62.221001"
+                     cy="77.456001"
+                     id="circle9299" />
+                </g>
+                <g
+                   id="H8pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 59.826,84.657 c 0,-1.322 1.072,-2.394 2.395,-2.394 1.321,0 2.393,1.069 2.393,2.394"
+                     id="path9302" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 64.614,84.657 c 0,1.321 -1.07,2.395 -2.393,2.395 -1.323,0 -2.395,-1.071 -2.395,-2.395 v 0"
+                     id="path9304" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="62.221001"
+                     cy="84.656998"
+                     id="circle9306" />
+                </g>
+                <g
+                   id="I8pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 59.826,91.857 c 0,-1.321 1.072,-2.396 2.395,-2.396 1.321,0 2.393,1.072 2.393,2.396"
+                     id="path9309" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 64.614,91.857 c 0,1.319 -1.07,2.394 -2.393,2.394 -1.323,0 -2.395,-1.071 -2.395,-2.394"
+                     id="path9311" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="62.221001"
+                     cy="91.857002"
+                     id="circle9313" />
+                </g>
+                <g
+                   id="J8pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 59.826,99.059 c 0,-1.322 1.072,-2.396 2.395,-2.396 1.321,0 2.393,1.07 2.393,2.396"
+                     id="path9316" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 64.614,99.059 c 0,1.32 -1.07,2.393 -2.393,2.393 -1.323,0 -2.395,-1.07 -2.395,-2.393 v 0"
+                     id="path9318" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="62.221001"
+                     cy="99.056999"
+                     id="circle9320" />
+                </g>
+                <g
+                   id="F9pin-9">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 67.028,70.256 c 0,-1.32 1.072,-2.395 2.393,-2.395 1.323,0 2.396,1.07 2.396,2.395"
+                     id="path9323" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 71.815,70.256 c 0,1.322 -1.071,2.396 -2.396,2.396 -1.319,0 -2.393,-1.072 -2.393,-2.396"
+                     id="path9325" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="69.419998"
+                     cy="70.257004"
+                     id="circle9327" />
+                </g>
+                <g
+                   id="G9pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 67.028,77.457 c 0,-1.322 1.072,-2.396 2.393,-2.396 1.323,0 2.396,1.072 2.396,2.396"
+                     id="path9330" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 71.815,77.457 c 0,1.32 -1.071,2.395 -2.396,2.395 -1.319,0 -2.393,-1.07 -2.393,-2.395"
+                     id="path9332" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="69.419998"
+                     cy="77.456001"
+                     id="circle9334" />
+                </g>
+                <g
+                   id="H9pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 67.028,84.657 c 0,-1.322 1.072,-2.394 2.393,-2.394 1.323,0 2.396,1.069 2.396,2.394"
+                     id="path9337" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 71.815,84.657 c 0,1.321 -1.071,2.395 -2.396,2.395 -1.319,0 -2.393,-1.071 -2.393,-2.395 v 0"
+                     id="path9339" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="69.419998"
+                     cy="84.656998"
+                     id="circle9341" />
+                </g>
+                <g
+                   id="I9pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 67.028,91.857 c 0,-1.321 1.072,-2.396 2.393,-2.396 1.323,0 2.396,1.072 2.396,2.396"
+                     id="path9344" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 71.815,91.857 c 0,1.319 -1.071,2.394 -2.396,2.394 -1.319,0 -2.393,-1.071 -2.393,-2.394"
+                     id="path9346" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="69.419998"
+                     cy="91.857002"
+                     id="circle9348" />
+                </g>
+                <g
+                   id="J9pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 67.028,99.059 c 0,-1.322 1.072,-2.396 2.393,-2.396 1.323,0 2.396,1.07 2.396,2.396"
+                     id="path9351" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 71.815,99.059 c 0,1.32 -1.071,2.393 -2.396,2.393 -1.319,0 -2.393,-1.07 -2.393,-2.393 v 0"
+                     id="path9353" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="69.419998"
+                     cy="99.056999"
+                     id="circle9355" />
+                </g>
+                <g
+                   id="F10pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 74.227,70.256 c 0,-1.32 1.071,-2.395 2.396,-2.395 1.323,0 2.394,1.07 2.394,2.395"
+                     id="path9358" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 79.014,70.256 c 0,1.322 -1.07,2.396 -2.394,2.396 -1.324,0 -2.396,-1.072 -2.396,-2.396"
+                     id="path9360" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="76.621002"
+                     cy="70.257004"
+                     id="circle9362" />
+                </g>
+                <g
+                   id="G10pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 74.227,77.457 c 0,-1.322 1.071,-2.396 2.396,-2.396 1.323,0 2.394,1.072 2.394,2.396"
+                     id="path9365" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 79.014,77.457 c 0,1.32 -1.07,2.395 -2.394,2.395 -1.324,0 -2.396,-1.07 -2.396,-2.395"
+                     id="path9367" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="76.621002"
+                     cy="77.456001"
+                     id="circle9369" />
+                </g>
+                <g
+                   id="H10pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 74.227,84.657 c 0,-1.322 1.071,-2.394 2.396,-2.394 1.323,0 2.394,1.069 2.394,2.394"
+                     id="path9372" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 79.014,84.657 c 0,1.321 -1.07,2.395 -2.394,2.395 -1.324,0 -2.396,-1.071 -2.396,-2.395 v 0"
+                     id="path9374" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="76.621002"
+                     cy="84.656998"
+                     id="circle9376" />
+                </g>
+                <g
+                   id="I10pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 74.227,91.857 c 0,-1.321 1.071,-2.396 2.396,-2.396 1.323,0 2.394,1.072 2.394,2.396"
+                     id="path9379" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 79.014,91.857 c 0,1.319 -1.07,2.394 -2.394,2.394 -1.324,0 -2.396,-1.071 -2.396,-2.394"
+                     id="path9381" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="76.621002"
+                     cy="91.857002"
+                     id="circle9383" />
+                </g>
+                <g
+                   id="J10pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 74.227,99.059 c 0,-1.322 1.071,-2.396 2.396,-2.396 1.323,0 2.394,1.07 2.394,2.396"
+                     id="path9386" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 79.014,99.059 c 0,1.32 -1.07,2.393 -2.394,2.393 -1.324,0 -2.396,-1.07 -2.396,-2.393 v 0"
+                     id="path9388" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="76.621002"
+                     cy="99.056999"
+                     id="circle9390" />
+                </g>
+                <g
+                   id="F11pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 81.428,70.256 c 0,-1.32 1.069,-2.395 2.394,-2.395 1.325,0 2.395,1.07 2.395,2.395"
+                     id="path9393" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 86.214,70.256 c 0,1.322 -1.07,2.396 -2.395,2.396 -1.325,0 -2.395,-1.072 -2.395,-2.396"
+                     id="path9395" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="83.820999"
+                     cy="70.257004"
+                     id="circle9397" />
+                </g>
+                <g
+                   id="G11pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 81.428,77.457 c 0,-1.322 1.069,-2.396 2.394,-2.396 1.325,0 2.395,1.072 2.395,2.396"
+                     id="path9400" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 86.214,77.457 c 0,1.32 -1.07,2.395 -2.395,2.395 -1.325,0 -2.395,-1.07 -2.395,-2.395"
+                     id="path9402" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="83.820999"
+                     cy="77.456001"
+                     id="circle9404" />
+                </g>
+                <g
+                   id="H11pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 81.428,84.657 c 0,-1.322 1.069,-2.394 2.394,-2.394 1.325,0 2.395,1.069 2.395,2.394"
+                     id="path9407" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 86.214,84.657 c 0,1.321 -1.07,2.395 -2.395,2.395 -1.325,0 -2.395,-1.071 -2.395,-2.395 v 0"
+                     id="path9409" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="83.820999"
+                     cy="84.656998"
+                     id="circle9411" />
+                </g>
+                <g
+                   id="I11pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 81.428,91.857 c 0,-1.321 1.069,-2.396 2.394,-2.396 1.325,0 2.395,1.072 2.395,2.396"
+                     id="path9414" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 86.214,91.857 c 0,1.319 -1.07,2.394 -2.395,2.394 -1.325,0 -2.395,-1.071 -2.395,-2.394"
+                     id="path9416" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="83.820999"
+                     cy="91.857002"
+                     id="circle9418" />
+                </g>
+                <g
+                   id="J11pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 81.428,99.059 c 0,-1.322 1.069,-2.396 2.394,-2.396 1.325,0 2.395,1.07 2.395,2.396"
+                     id="path9421" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 86.214,99.059 c 0,1.32 -1.07,2.393 -2.395,2.393 -1.325,0 -2.395,-1.07 -2.395,-2.393 v 0"
+                     id="path9423" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="83.820999"
+                     cy="99.056999"
+                     id="circle9425" />
+                </g>
+                <g
+                   id="F12pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 88.626,70.256 c 0,-1.32 1.072,-2.395 2.396,-2.395 1.318,0 2.393,1.07 2.393,2.395"
+                     id="path9428" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 93.414,70.256 c 0,1.322 -1.072,2.396 -2.393,2.396 -1.322,0 -2.396,-1.072 -2.396,-2.396"
+                     id="path9430" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="91.022003"
+                     cy="70.257004"
+                     id="circle9432" />
+                </g>
+                <g
+                   id="G12pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 88.626,77.457 c 0,-1.322 1.072,-2.396 2.396,-2.396 1.318,0 2.393,1.072 2.393,2.396"
+                     id="path9435" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 93.414,77.457 c 0,1.32 -1.072,2.395 -2.393,2.395 -1.322,0 -2.396,-1.07 -2.396,-2.395"
+                     id="path9437" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="91.022003"
+                     cy="77.456001"
+                     id="circle9439" />
+                </g>
+                <g
+                   id="H12pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 88.626,84.657 c 0,-1.322 1.072,-2.394 2.396,-2.394 1.318,0 2.393,1.069 2.393,2.394"
+                     id="path9442" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 93.414,84.657 c 0,1.321 -1.072,2.395 -2.393,2.395 -1.322,0 -2.396,-1.071 -2.396,-2.395 v 0"
+                     id="path9444" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="91.022003"
+                     cy="84.656998"
+                     id="circle9446" />
+                </g>
+                <g
+                   id="I12pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 88.626,91.857 c 0,-1.321 1.072,-2.396 2.396,-2.396 1.318,0 2.393,1.072 2.393,2.396"
+                     id="path9449" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 93.414,91.857 c 0,1.319 -1.072,2.394 -2.393,2.394 -1.322,0 -2.396,-1.071 -2.396,-2.394"
+                     id="path9451" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="91.022003"
+                     cy="91.857002"
+                     id="circle9453" />
+                </g>
+                <g
+                   id="J12pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 88.626,99.059 c 0,-1.322 1.072,-2.396 2.396,-2.396 1.318,0 2.393,1.07 2.393,2.396"
+                     id="path9456" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 93.414,99.059 c 0,1.32 -1.072,2.393 -2.393,2.393 -1.322,0 -2.396,-1.07 -2.396,-2.393 v 0"
+                     id="path9458" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="91.022003"
+                     cy="99.056999"
+                     id="circle9460" />
+                </g>
+                <g
+                   id="F13pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 95.826,70.256 c 0,-1.32 1.072,-2.395 2.396,-2.395 1.322,0 2.393,1.07 2.393,2.395"
+                     id="path9463" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 100.614,70.256 c 0,1.322 -1.069,2.396 -2.393,2.396 -1.324,0 -2.396,-1.072 -2.396,-2.396"
+                     id="path9465" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="98.221001"
+                     cy="70.257004"
+                     id="circle9467" />
+                </g>
+                <g
+                   id="G13pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 95.826,77.457 c 0,-1.322 1.072,-2.396 2.396,-2.396 1.322,0 2.393,1.072 2.393,2.396"
+                     id="path9470" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 100.614,77.457 c 0,1.32 -1.069,2.395 -2.393,2.395 -1.324,0 -2.396,-1.07 -2.396,-2.395"
+                     id="path9472" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="98.221001"
+                     cy="77.456001"
+                     id="circle9474" />
+                </g>
+                <g
+                   id="H13pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 95.826,84.657 c 0,-1.322 1.072,-2.394 2.396,-2.394 1.322,0 2.393,1.069 2.393,2.394"
+                     id="path9477" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 100.614,84.657 c 0,1.321 -1.069,2.395 -2.393,2.395 -1.324,0 -2.396,-1.071 -2.396,-2.395 v 0"
+                     id="path9479" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="98.221001"
+                     cy="84.656998"
+                     id="circle9481" />
+                </g>
+                <g
+                   id="I13pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 95.826,91.857 c 0,-1.321 1.072,-2.396 2.396,-2.396 1.322,0 2.393,1.072 2.393,2.396"
+                     id="path9484" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 100.614,91.857 c 0,1.319 -1.069,2.394 -2.393,2.394 -1.324,0 -2.396,-1.071 -2.396,-2.394"
+                     id="path9486" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="98.221001"
+                     cy="91.857002"
+                     id="circle9488" />
+                </g>
+                <g
+                   id="J13pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 95.826,99.059 c 0,-1.322 1.072,-2.396 2.396,-2.396 1.322,0 2.393,1.07 2.393,2.396"
+                     id="path9491" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 100.614,99.059 c 0,1.32 -1.069,2.393 -2.393,2.393 -1.324,0 -2.396,-1.07 -2.396,-2.393 v 0"
+                     id="path9493" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="98.221001"
+                     cy="99.056999"
+                     id="circle9495" />
+                </g>
+                <g
+                   id="F14pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 103.028,70.256 c 0,-1.32 1.07,-2.395 2.394,-2.395 1.322,0 2.396,1.07 2.396,2.395"
+                     id="path9498" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 107.815,70.256 c 0,1.322 -1.071,2.396 -2.396,2.396 -1.322,0 -2.394,-1.072 -2.394,-2.396"
+                     id="path9500" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="105.419"
+                     cy="70.257004"
+                     id="circle9502" />
+                </g>
+                <g
+                   id="G14pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 103.028,77.457 c 0,-1.322 1.07,-2.396 2.394,-2.396 1.322,0 2.396,1.072 2.396,2.396"
+                     id="path9505" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 107.815,77.457 c 0,1.32 -1.071,2.395 -2.396,2.395 -1.322,0 -2.394,-1.07 -2.394,-2.395"
+                     id="path9507" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="105.419"
+                     cy="77.456001"
+                     id="circle9509" />
+                </g>
+                <g
+                   id="H14pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 103.028,84.657 c 0,-1.322 1.07,-2.394 2.394,-2.394 1.322,0 2.396,1.069 2.396,2.394"
+                     id="path9512" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 107.815,84.657 c 0,1.321 -1.071,2.395 -2.396,2.395 -1.322,0 -2.394,-1.071 -2.394,-2.395 v 0"
+                     id="path9514" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="105.419"
+                     cy="84.656998"
+                     id="circle9516" />
+                </g>
+                <g
+                   id="I14pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 103.028,91.857 c 0,-1.321 1.07,-2.396 2.394,-2.396 1.322,0 2.396,1.072 2.396,2.396"
+                     id="path9519" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 107.815,91.857 c 0,1.319 -1.071,2.394 -2.396,2.394 -1.322,0 -2.394,-1.071 -2.394,-2.394"
+                     id="path9521" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="105.419"
+                     cy="91.857002"
+                     id="circle9523" />
+                </g>
+                <g
+                   id="J14pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 103.028,99.059 c 0,-1.322 1.07,-2.396 2.394,-2.396 1.322,0 2.396,1.07 2.396,2.396"
+                     id="path9526" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 107.815,99.059 c 0,1.32 -1.071,2.393 -2.396,2.393 -1.322,0 -2.394,-1.07 -2.394,-2.393 v 0"
+                     id="path9528" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="105.419"
+                     cy="99.056999"
+                     id="circle9530" />
+                </g>
+                <g
+                   id="F15pin-8">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 110.227,70.256 c 0.002,-1.32 1.075,-2.392 2.397,-2.39 1.317,0.003 2.387,1.069 2.39,2.39"
+                     id="path9533" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 115.014,70.256 c 0.002,1.322 -1.068,2.396 -2.39,2.396 -1.322,0.003 -2.396,-1.066 -2.397,-2.391 0,-0.002 0,-0.004 0,-0.008"
+                     id="path9535" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="112.621"
+                     cy="70.257004"
+                     id="circle9537" />
+                </g>
+                <g
+                   id="G15pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 110.227,77.457 c 0.002,-1.322 1.075,-2.395 2.397,-2.393 1.317,0.002 2.387,1.07 2.39,2.393"
+                     id="path9540" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 115.014,77.457 c 0.002,1.32 -1.068,2.396 -2.39,2.396 -1.322,0.002 -2.396,-1.067 -2.397,-2.392 0,-0.002 0,-0.004 0,-0.006"
+                     id="path9542" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="112.621"
+                     cy="77.456001"
+                     id="circle9544" />
+                </g>
+                <g
+                   id="H15pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 110.227,84.657 c 0.002,-1.322 1.075,-2.394 2.397,-2.392 1.317,0.002 2.387,1.071 2.39,2.392"
+                     id="path9547" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 115.014,84.657 c 0.002,1.321 -1.068,2.395 -2.39,2.396 -1.322,0.002 -2.396,-1.064 -2.397,-2.389 0,-0.002 0,-0.007 0,-0.01"
+                     id="path9549" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="112.621"
+                     cy="84.656998"
+                     id="circle9551" />
+                </g>
+                <g
+                   id="I15pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 110.227,91.857 c 0.002,-1.321 1.075,-2.394 2.397,-2.392 1.317,0.002 2.387,1.07 2.39,2.392"
+                     id="path9554" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 115.014,91.857 c 0.002,1.319 -1.068,2.396 -2.39,2.396 -1.322,0.002 -2.396,-1.066 -2.397,-2.393 0,-0.002 0,-0.004 0,-0.006"
+                     id="path9556" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="112.621"
+                     cy="91.857002"
+                     id="circle9558" />
+                </g>
+                <g
+                   id="J15pin-3">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 110.227,99.059 c 0.002,-1.322 1.075,-2.395 2.397,-2.393 1.317,0.002 2.387,1.068 2.39,2.393"
+                     id="path9561" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 115.014,99.059 c 0.002,1.32 -1.068,2.395 -2.39,2.396 -1.322,0.002 -2.396,-1.068 -2.397,-2.39 0,-0.004 0,-0.006 0,-0.008"
+                     id="path9563" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="112.621"
+                     cy="99.056999"
+                     id="circle9565" />
+                </g>
+                <g
+                   id="F16pin-5">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 117.428,70.256 c 0.003,-1.32 1.073,-2.392 2.396,-2.39 1.318,0.003 2.389,1.069 2.391,2.39"
+                     id="path9568" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 122.214,70.256 c 0.002,1.322 -1.066,2.396 -2.391,2.396 -1.324,0.002 -2.395,-1.066 -2.396,-2.391 0,-0.002 0,-0.004 0,-0.008"
+                     id="path9570" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="119.821"
+                     cy="70.257004"
+                     id="circle9572" />
+                </g>
+                <g
+                   id="G16pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 117.428,77.457 c 0.003,-1.322 1.073,-2.395 2.396,-2.393 1.318,0.002 2.389,1.07 2.391,2.393"
+                     id="path9575" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 122.214,77.457 c 0.002,1.32 -1.066,2.396 -2.391,2.396 -1.322,0.002 -2.395,-1.067 -2.396,-2.392 0,-0.002 0,-0.004 0,-0.006"
+                     id="path9577" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="119.821"
+                     cy="77.456001"
+                     id="circle9579" />
+                </g>
+                <g
+                   id="H16pin-1">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 117.428,84.657 c 0.003,-1.322 1.073,-2.394 2.396,-2.392 1.318,0.002 2.389,1.071 2.391,2.392"
+                     id="path9582" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 122.214,84.657 c 0.002,1.321 -1.066,2.395 -2.391,2.396 -1.324,0.002 -2.395,-1.064 -2.396,-2.389 0,-0.002 0,-0.007 0,-0.01"
+                     id="path9584" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="119.821"
+                     cy="84.656998"
+                     id="circle9586" />
+                </g>
+                <g
+                   id="I16pin-9">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 117.428,91.857 c 0.003,-1.321 1.073,-2.394 2.396,-2.392 1.318,0.002 2.389,1.07 2.391,2.392"
+                     id="path9589" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 122.214,91.857 c 0.002,1.319 -1.066,2.396 -2.391,2.396 -1.325,0 -2.395,-1.066 -2.396,-2.393 0,-0.002 0,-0.004 0,-0.006"
+                     id="path9591" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="119.821"
+                     cy="91.857002"
+                     id="circle9593" />
+                </g>
+                <g
+                   id="J16pin-4">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 117.428,99.059 c 0.003,-1.322 1.073,-2.395 2.396,-2.393 1.318,0.002 2.389,1.068 2.391,2.393"
+                     id="path9596" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 122.214,99.059 c 0.002,1.32 -1.066,2.395 -2.391,2.396 -1.325,0.001 -2.395,-1.068 -2.396,-2.39 0,-0.004 0,-0.006 0,-0.008"
+                     id="path9598" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="119.821"
+                     cy="99.056999"
+                     id="circle9600" />
+                </g>
+                <g
+                   id="F17pin-2">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 124.626,70.256 c 0.002,-1.32 1.074,-2.392 2.396,-2.39 1.318,0.003 2.389,1.069 2.391,2.39"
+                     id="path9603" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 129.414,70.256 c 0.002,1.322 -1.067,2.396 -2.392,2.396 -1.321,0.003 -2.396,-1.066 -2.396,-2.391 0,-0.002 0,-0.004 0,-0.008"
+                     id="path9605" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="127.02"
+                     cy="70.257004"
+                     id="circle9607" />
+                </g>
+                <g
+                   id="G17pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 124.626,77.457 c 0.002,-1.322 1.074,-2.395 2.396,-2.393 1.318,0.002 2.389,1.07 2.391,2.393"
+                     id="path9610" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 129.414,77.457 c 0.002,1.32 -1.067,2.396 -2.392,2.396 -1.321,0.002 -2.396,-1.067 -2.396,-2.392 0,-0.002 0,-0.004 0,-0.006"
+                     id="path9612" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="127.02"
+                     cy="77.456001"
+                     id="circle9614" />
+                </g>
+                <g
+                   id="H17pin-7">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 124.626,84.657 c 0.002,-1.322 1.074,-2.394 2.396,-2.392 1.318,0.002 2.389,1.071 2.391,2.392"
+                     id="path9617" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 129.414,84.657 c 0.002,1.321 -1.067,2.395 -2.392,2.396 -1.321,0.002 -2.396,-1.064 -2.396,-2.389 0,-0.002 0,-0.007 0,-0.01"
+                     id="path9619" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="127.02"
+                     cy="84.656998"
+                     id="circle9621" />
+                </g>
+                <g
+                   id="I17pin-0">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 124.626,91.857 c 0.002,-1.321 1.074,-2.394 2.396,-2.392 1.318,0.002 2.389,1.07 2.391,2.392"
+                     id="path9624" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 129.414,91.857 c 0.002,1.319 -1.067,2.396 -2.392,2.396 -1.321,0.002 -2.396,-1.066 -2.396,-2.393 0,-0.002 0,-0.004 0,-0.006"
+                     id="path9626" />
+                  <circle
+                     fill="#383838"
+                     r="1.196"
+                     cx="127.02"
+                     cy="91.857002"
+                     id="circle9628" />
+                </g>
+                <g
+                   id="J17pin-6">
+                  <path
+                     fill="#bfbfbf"
+                     d="m 124.626,99.059 c 0.002,-1.322 1.074,-2.395 2.396,-2.393 1.318,0.002 2.389,1.068 2.391,2.393"
+                     id="path9631" />
+                  <path
+                     fill="#e6e6e6"
+                     d="m 129.414,99.059 c 0.002,1.32 -1.067,2.395 -2.392,2.396 -1.321,0.002 -2.396,-1.068 -2.396,-2.39 0,-0.004 0,-0.006 0,-0.008"
+                     id="path9633" />
+                  <circle
+                     fill="#383838"
+                     r="1.197"
+                     cx="127.02"
+                     cy="99.056999"
+                     id="circle9635" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         partID="854367220"
+         id="g9713"
+         transform="scale(0.3527778)">
+        <g
+           transform="translate(0,86.4)"
+           id="g9711">
+          <g
+             id="breadboard-7">
+            <path
+               fill="#ffffff"
+               stroke="#000000"
+               d="m 205.338,31.8955 v -9.8203 c 0,-10.9927 -8.85002,-19.8428 -19.8428,-19.8428 l -158.7413,2e-5 c -10.9927,0 -19.8413,8.85008 -19.8413,19.84278 v 9.8203 M 57.6006,4.3916 c 1.82917,-6.8e-6 3.31202,1.48283 3.31201,3.31201 6e-6,1.82917 -1.48283,3.31202 -3.31201,3.31201 -1.82917,6e-6 -3.31201,-1.48283 -3.31201,-3.31201 -6e-6,-1.82917 1.48283,-3.31201 3.31201,-3.31201 z m 108,0 c 1.82917,-8.4e-6 3.31202,1.48283 3.31201,3.31201 1e-5,1.82917 -1.48284,3.31202 -3.31201,3.31201 -1.82917,4e-6 -3.31201,-1.48284 -3.31201,-3.31201 -1e-5,-1.82917 1.48283,-3.31201 3.31201,-3.31201 z M 18,9.7925 c 1.82917,-7.2e-6 3.31202,1.48283 3.31201,3.31201 6e-6,1.82917 -1.48283,3.31202 -3.31201,3.31201 -1.82917,6e-6 -3.31202,-1.48283 -3.31201,-3.31201 C 14.687984,11.27534 16.17082,9.79249 18,9.7925 Z"
+               stroke-width="0.72"
+               style="stroke-linecap:round;stroke-linejoin:round"
+               id="path9646" />
+            <path
+               fill="none"
+               stroke="#000000"
+               d="m 189.936,17.64 c 0,2.74375 -2.22425,4.968 -4.968,4.968 -2.74375,0 -4.968,-2.22425 -4.968,-4.968 0,-2.74375 2.22425,-4.968 4.968,-4.968 2.74375,0 4.968,2.22425 4.968,4.968 z M 176.472,9.144 h 16.992 V 26.136 H 176.472 Z M 46.8,31.896 c 0,-2.74375 2.22425,-4.968 4.968,-4.968 2.74375,0 4.968,2.22425 4.968,4.968 m -38.736,0 c 0,-2.74375 2.22425,-4.968 4.968,-4.968 2.74375,0 4.968,2.22425 4.968,4.968 m 3.528,0 V 23.4 H 14.472 v 8.496 m 45.792,0 V 23.4 H 43.272 v 8.496 m -0.936,-18 c 0,2.74375 -2.22425,4.968 -4.968,4.968 -2.74375,0 -4.968,-2.22425 -4.968,-4.968 0,-2.74375 2.22425,-4.968 4.968,-4.968 2.74375,0 4.968,2.22425 4.968,4.968 z M 28.872,5.4 H 45.864 V 22.392 H 28.872 Z m 38.3761,14.8324 v 4.31958 H 77.3277 V 20.2324 m 1.15283,0 v 4.31958 h 10.0796 V 20.2324 m 1.15136,0 v 4.31958 h 10.0811 V 20.2324 m 1.15137,0 v 4.31958 h 10.0796 V 20.2324 m 1.15284,0 v 4.31958 H 122.256 V 20.2324 m 1.15284,0 v 4.31958 h 10.0796 V 20.2324 m 1.15137,0 v 4.31958 h 10.0811 V 20.2324 m 1.15136,0 v 4.31958 h 10.0796 L 155.952,20.2324 M 77.3273,31.8955 V 25.704 H 67.2481 v 6.1915 m 21.312,0 V 25.704 H 78.4805 v 6.1915 m 21.312,0 V 25.704 H 89.7114 v 6.1915 m 21.312,0 V 25.704 h -10.0796 v 6.1915 m 21.312,0 V 25.704 h -10.0796 v 6.1915 m 21.312,0 V 25.704 h -10.0796 v 6.1915 m 21.312,0 4e-4,-6.1915 h -10.082 v 6.1915 m 21.312,0 V 25.704 h -10.0796 v 6.1915 m 11.083,0 6e-4,-29.66308 m -90.7092,0 3e-4,29.66308"
+               stroke-width="0.72"
+               style="stroke-linecap:round;stroke-linejoin:round"
+               id="path9648" />
+            <path
+               fill="none"
+               stroke="#000000"
+               d="m 72,7.2 c 2.376,2.16 4.824,2.16 7.2,0"
+               stroke-width="1.44"
+               id="path9650" />
+            <path
+               fill="none"
+               stroke="#000000"
+               d="m 136.8,7.2 c 2.376,2.16 4.824,2.16 7.2,0"
+               stroke-width="1.44"
+               id="path9652" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="72"
+               cy="7.1999998"
+               id="circle9654" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="79.199997"
+               cy="7.1999998"
+               id="circle9656" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="86.400002"
+               cy="7.1999998"
+               id="circle9658" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="93.599998"
+               cy="7.1999998"
+               id="circle9660" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="100.8"
+               cy="7.1999998"
+               id="circle9662" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="108"
+               cy="7.1999998"
+               id="circle9664" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="115.2"
+               cy="7.1999998"
+               id="circle9666" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="122.4"
+               cy="7.1999998"
+               id="circle9668" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="129.60001"
+               cy="7.1999998"
+               id="circle9670" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="136.8"
+               cy="7.1999998"
+               id="circle9672" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="144"
+               cy="7.1999998"
+               id="circle9674" />
+            <circle
+               fill="#000000"
+               r="2.3759999"
+               stroke="none"
+               cx="151.2"
+               cy="7.1999998"
+               id="circle9676" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector0pin-9"
+               height="2.1600001"
+               x="70.919998"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector1pin-2"
+               height="2.1600001"
+               x="78.120003"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector2pin-5"
+               height="2.1600001"
+               x="85.32"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector3pin-2"
+               height="2.1600001"
+               x="92.519997"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector4pin-6"
+               height="2.1600001"
+               x="99.720001"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector5pin-4"
+               height="2.1600001"
+               x="106.92"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector6pin-0"
+               height="2.1600001"
+               x="114.12"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector7pin-7"
+               height="2.1600001"
+               x="121.32"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector8pin-5"
+               height="2.1600001"
+               x="128.52"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector9pin-9"
+               height="2.1600001"
+               x="135.72"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector10pin-3"
+               height="2.1600001"
+               x="142.92"
+               y="6.1199999" />
+            <rect
+               width="2.1600001"
+               fill="none"
+               stroke="none"
+               id="connector11pin-3"
+               height="2.1600001"
+               x="150.12"
+               y="6.1199999" />
+            <text
+               text-anchor="middle"
+               fill="#000000"
+               stroke="none"
+               x="75.599998"
+               y="16.559999"
+               font-size="7.2px"
+               style="font-family:'Droid Sans'"
+               id="text9690">+</text>
+            <text
+               text-anchor="middle"
+               fill="#000000"
+               stroke="none"
+               x="86.400002"
+               y="16.559999"
+               font-size="7.2px"
+               style="font-family:'Droid Sans'"
+               id="text9692">7</text>
+            <text
+               text-anchor="middle"
+               fill="#000000"
+               stroke="none"
+               x="93.599998"
+               y="16.559999"
+               font-size="7.2px"
+               style="font-family:'Droid Sans'"
+               id="text9694">6</text>
+            <text
+               text-anchor="middle"
+               fill="#000000"
+               stroke="none"
+               x="100.8"
+               y="16.559999"
+               font-size="7.2px"
+               style="font-family:'Droid Sans'"
+               id="text9696">5</text>
+            <text
+               text-anchor="middle"
+               fill="#000000"
+               stroke="none"
+               x="108"
+               y="16.559999"
+               font-size="7.2px"
+               style="font-family:'Droid Sans'"
+               id="text9698">4</text>
+            <text
+               text-anchor="middle"
+               fill="#000000"
+               stroke="none"
+               x="115.2"
+               y="16.559999"
+               font-size="7.2px"
+               style="font-family:'Droid Sans'"
+               id="text9700">3</text>
+            <text
+               text-anchor="middle"
+               fill="#000000"
+               stroke="none"
+               x="122.4"
+               y="16.559999"
+               font-size="7.2px"
+               style="font-family:'Droid Sans'"
+               id="text9702">2</text>
+            <text
+               text-anchor="middle"
+               fill="#000000"
+               stroke="none"
+               x="129.60001"
+               y="16.559999"
+               font-size="7.2px"
+               style="font-family:'Droid Sans'"
+               id="text9704">1</text>
+            <text
+               text-anchor="middle"
+               fill="#000000"
+               stroke="none"
+               x="140.39999"
+               y="16.559999"
+               font-size="7.2px"
+               style="font-family:'Droid Sans'"
+               id="text9706">–</text>
+            <text
+               text-anchor="middle"
+               fill="#000000"
+               stroke="none"
+               x="151.2"
+               y="16.559999"
+               font-size="7.2px"
+               style="font-family:'Droid Sans'"
+               id="text9708">R</text>
+          </g>
+        </g>
+      </g>
+      <g
+         partID="854367040"
+         id="g9757"
+         transform="scale(0.3527778)">
+        <g
+           transform="translate(93.6)"
+           id="g9755">
+          <g
+             transform="translate(0,-813.088)"
+             id="g9753">
+            <g
+               id="g9751">
+              <g
+                 id="g9749">
+                <rect
+                   width="1.4400001"
+                   fill="#999999"
+                   stroke="none"
+                   height="1.4400001"
+                   id="rect9715"
+                   x="13.68"
+                   y="841.16803"
+                   style="display:inline"
+                   fill-opacity="1" />
+                <rect
+                   width="1.4400001"
+                   fill="#999999"
+                   stroke="none"
+                   height="1.4400001"
+                   id="rect9717"
+                   x="20.879999"
+                   y="841.16803"
+                   style="display:inline"
+                   fill-opacity="1" />
+                <rect
+                   width="1.4400001"
+                   fill="#999999"
+                   stroke="none"
+                   height="1.4400001"
+                   id="rect9719"
+                   x="6.48"
+                   y="841.16803"
+                   style="display:inline"
+                   fill-opacity="1" />
+                <rect
+                   width="27.360001"
+                   fill="#55acff"
+                   stroke="#000000"
+                   height="27.360001"
+                   id="rect7302-0"
+                   x="0.72000003"
+                   y="813.80798"
+                   stroke-width="0.18"
+                   style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
+                   fill-opacity="1"
+                   stroke-opacity="1" />
+                <g
+                   transform="translate(0,-0.0019461)"
+                   id="g9723">
+                  <path
+                     fill="none"
+                     stroke="#000000"
+                     d="m 27.36,827.49 a 12.96,12.96 0 1 1 -25.92,0 12.96,12.96 0 1 1 25.92,0 z"
+                     id="path7839-1"
+                     stroke-width="0.2"
+                     style="display:inline;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                     stroke-opacity="1" />
+                </g>
+                <g
+                   transform="translate(0,-0.0019461)"
+                   id="g9726">
+                  <path
+                     fill="none"
+                     stroke="#000000"
+                     d="m 23.04,827.49 a 8.64,8.64 0 1 1 -17.28,0 8.64,8.64 0 1 1 17.28,0 z"
+                     id="path7841-1"
+                     stroke-width="0.2"
+                     style="display:inline;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                     stroke-opacity="1" />
+                </g>
+                <g
+                   transform="translate(0,-0.0019461)"
+                   id="g9729">
+                  <path
+                     fill="url(#linearGradient214499)"
+                     stroke="#000000"
+                     d="m 14.4,820.3 c -0.20573,0 -0.398643,0.008 -0.6,0.0248 l -3,5.72504 h 2.15 v 8.5 c 0.468702,0.0959 0.952944,0.15 1.45,0.15 0.497056,0 0.981298,-0.0544 1.45,-0.15 v -8.5 H 18 L 15,820.3248 C 14.798643,820.308 14.60573,820.3 14.4,820.3 Z"
+                     id="path214468-1"
+                     stroke-width="0.2"
+                     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                     fill-opacity="1"
+                     stroke-opacity="1" />
+                </g>
+                <g
+                   transform="translate(0,-0.0019461)"
+                   id="g9732">
+                  <path
+                     fill="none"
+                     stroke="#000000"
+                     d="m 21.6,827.49 a 7.2,7.2 0 1 1 -14.4,0 7.2,7.2 0 1 1 14.4,0 z"
+                     id="path214491-0"
+                     stroke-width="0.2"
+                     style="display:inline;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                     stroke-opacity="1" />
+                </g>
+                <g
+                   transform="translate(0,-0.0019461)"
+                   id="g9735">
+                  <path
+                     fill="none"
+                     stroke="#000000"
+                     d="m 14.4,815.268 0.659434,-0.36072 0.618114,0.42768 0.693528,-0.28984 0.570022,0.48992 0.720024,-0.21568 0.515686,0.5468 0.73863,-0.13928 0.455699,0.59776 0.749145,-0.0616 0.390719,0.64216 0.751452,0.0176 0.32146,0.67944 0.745526,0.0958 0.248677,0.70936 0.731431,0.1732 0.17317,0.73136 0.709323,0.24872 0.09577,0.74552 0.679444,0.32144 0.01731,0.75144 0.64212,0.39072 -0.06133,0.7492 0.597761,0.45568 -0.139301,0.73864 0.546853,0.51568 -0.215746,0.72 0.489953,0.57 -0.289826,0.69352 0.427686,0.61816 -0.360732,0.65944 0.360732,0.65944 -0.427686,0.61808 0.289826,0.69352 -0.489953,0.57008 0.215746,0.72 -0.546853,0.51568 0.1393,0.73864 -0.59776,0.45568 0.06133,0.74912 -0.642119,0.39072 -0.01731,0.75144 -0.679443,0.32152 -0.09577,0.74552 -0.709322,0.24864 -0.173171,0.73144 -0.73143,0.1732 -0.248678,0.70928 -0.745526,0.0958 -0.32146,0.67944 -0.751451,0.0176 -0.39072,0.64208 -0.749145,-0.0616 -0.4557,0.59776 -0.73863,-0.13936 -0.515686,0.54688 -0.720023,-0.21576 -0.570022,0.49 -0.693527,-0.28984 -0.618114,0.42768 L 14.4,839.712 l -0.659434,0.36072 -0.618114,-0.42768 -0.693528,0.28984 -0.570022,-0.49 -0.720024,0.21576 -0.515686,-0.54688 -0.73863,0.13936 -0.455699,-0.59776 -0.749145,0.0616 -0.390719,-0.64208 -0.751452,-0.0176 -0.321459,-0.67944 -0.745526,-0.0958 -0.248677,-0.70928 -0.731431,-0.1732 -0.17317,-0.73144 -0.709323,-0.24864 -0.095767,-0.74552 -0.679444,-0.32152 -0.017314,-0.75144 -0.64212,-0.39072 0.06133,-0.74912 -0.597761,-0.45568 0.139301,-0.73864 -0.546853,-0.51568 0.215745,-0.72 -0.489953,-0.57008 0.289826,-0.69352 -0.427685,-0.61808 0.360732,-0.65944 -0.360732,-0.65944 0.427685,-0.61816 -0.289826,-0.69352 0.489953,-0.57 -0.215745,-0.72 0.546853,-0.51568 -0.1393,-0.73864 0.597761,-0.45568 -0.06133,-0.7492 0.64212,-0.39072 0.017314,-0.75144 0.679443,-0.32144 0.095767,-0.74552 0.709323,-0.24872 0.173171,-0.73136 0.731431,-0.1732 0.248678,-0.70936 0.745525,-0.0958 0.32146,-0.67944 0.751451,-0.0176 0.39072,-0.64216 0.749145,0.0616 0.4557,-0.59776 0.73863,0.13928 0.515686,-0.5468 0.720023,0.21568 0.570022,-0.48992 0.693527,0.28984 0.618114,-0.42768 z"
+                     id="path7818-2"
+                     stroke-width="0.072"
+                     style="display:inline;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                     stroke-opacity="1" />
+                </g>
+                <g
+                   transform="rotate(-14.999995,14.393444,827.48733)"
+                   id="g9738">
+                  <path
+                     fill="none"
+                     stroke="#000000"
+                     d="m 1.8,827.49 3.16295,-0.49456 -3.09393,-0.82248 3.19732,-0.16128 -2.991,-1.14136 3.19666,0.17384 -2.85531,-1.44776 3.16098,0.50704 -2.68834,-1.73832 3.09066,0.83464 -2.49191,-2.00976 2.98648,1.15312 -2.26818,-2.2592 2.84958,1.45896 -2.0196,-2.48392 2.68147,1.74888 -1.74889,-2.68144 2.48397,2.01952 -1.45902,-2.84952 2.25926,2.26816 -1.15316,-2.98648 2.00979,2.49192 -0.834671,-3.09072 1.7383,2.6884 -0.507037,-3.16104 1.44777,2.85536 -0.173847,-3.19664 1.14138,2.99096 0.161246,-3.19728 0.822484,3.09392 0.494575,-3.16296 0.494574,3.16296 0.822484,-3.09392 0.161247,3.19728 1.14138,-2.99096 -0.173847,3.19664 1.44777,-2.85536 -0.507037,3.16104 1.7383,-2.6884 -0.834671,3.09072 2.00979,-2.49192 -1.15316,2.98648 2.25926,-2.26816 -1.45902,2.84952 2.48397,-2.01952 -1.74889,2.68144 2.68147,-1.74888 -2.0196,2.48392 2.84958,-1.45896 -2.26818,2.2592 2.98648,-1.15312 -2.49191,2.00976 3.09066,-0.83464 -2.68834,1.73832 3.16098,-0.50704 -2.85531,1.44776 3.19666,-0.17384 -2.991,1.14136 3.19732,0.16128 -3.09393,0.82248 3.16295,0.49456 -3.16295,0.49456 3.09393,0.82248 -3.19732,0.16128 2.99101,1.14136 -3.19666,-0.17384 2.85531,1.44776 -3.16098,-0.50704 2.68834,1.73832 -3.09066,-0.83472 2.49191,2.00984 -2.98648,-1.1532 2.26818,2.25928 -2.84958,-1.45904 2.0196,2.484 -2.68147,-1.74888 1.74889,2.68144 -2.48397,-2.0196 1.45902,2.8496 -2.25926,-2.26816 1.15316,2.98648 -2.00979,-2.49192 0.834671,3.09064 -1.7383,-2.68832 0.507037,3.16096 -1.44777,-2.85528 0.173847,3.19664 -1.14138,-2.99096 -0.161246,3.19728 -0.822484,-3.09392 -0.494575,3.16296 -0.494574,-3.16296 -0.822484,3.09392 -0.161247,-3.19728 -1.14138,2.99096 0.173847,-3.19664 -1.44777,2.85528 0.507037,-3.16096 -1.7383,2.68832 L 10.10979,835.91 8.1,838.40192 l 1.15316,-2.98648 -2.25926,2.26816 1.45902,-2.8496 -2.48397,2.0196 1.74889,-2.68144 -2.68147,1.74888 2.0196,-2.484 -2.84958,1.45904 2.26818,-2.25928 -2.98648,1.1532 2.49191,-2.00984 -3.09066,0.83472 2.68834,-1.73832 -3.16098,0.50704 2.85531,-1.44776 -3.19666,0.17384 2.991,-1.14136 -3.19732,-0.16128 3.09393,-0.82248 z"
+                     id="path7826-3"
+                     stroke-width="0.072"
+                     style="display:inline;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                     stroke-opacity="1" />
+                </g>
+                <g
+                   transform="rotate(-14.999995,14.393444,827.48733)"
+                   id="g9741">
+                  <path
+                     fill="none"
+                     stroke="#000000"
+                     d="m 4.68,827.49 0.401588,-0.4884 -0.348341,-0.5276 0.450436,-0.44376 -0.291277,-0.56112 0.494348,-0.39424 -0.231022,-0.58856 0.532844,-0.34032 -0.168236,-0.60952 0.565502,-0.2828 -0.103607,-0.62368 0.591964,-0.22216 -0.037842,-0.63112 0.611941,-0.15904 0.028337,-0.63168 0.625213,-0.0942 0.094205,-0.6252 0.631635,-0.028 0.159042,-0.612 0.631137,0.0376 0.222136,-0.59192 0.623723,0.1036 0.282795,-0.56552 0.609478,0.16824 0.340358,-0.53288 0.588554,0.23104 0.39419,-0.49432 0.56118,0.29128 0.443705,-0.45048 0.527659,0.3484 0.488358,-0.4016 0.488357,0.4016 0.527659,-0.3484 0.443705,0.45048 0.561181,-0.29128 0.39419,0.49432 0.588553,-0.23104 0.340358,0.53288 0.609478,-0.16824 0.282796,0.56552 0.623723,-0.1036 0.222136,0.59192 0.631137,-0.0376 0.159042,0.612 0.631635,0.028 0.09421,0.6252 0.625213,0.0942 0.02834,0.63168 0.611941,0.15904 -0.03784,0.63112 0.591964,0.22216 -0.103607,0.62368 0.565502,0.2828 -0.168236,0.60952 0.532843,0.34032 -0.231022,0.58856 0.494347,0.39424 -0.291278,0.56112 0.450436,0.44376 -0.348342,0.5276 0.401589,0.4884 -0.401589,0.48832 0.348342,0.52768 -0.450436,0.44368 0.291278,0.5612 -0.494348,0.39416 0.231022,0.58856 -0.532844,0.3404 0.168237,0.60944 -0.565502,0.2828 0.103607,0.62376 -0.591964,0.22216 0.03784,0.63112 -0.611941,0.15904 -0.02834,0.6316 -0.625213,0.0942 -0.09421,0.6252 -0.631635,0.028 -0.159042,0.61192 -0.631137,-0.0376 -0.222136,0.592 -0.623724,-0.1036 -0.282795,0.56552 -0.609478,-0.16824 -0.340357,0.5328 -0.588554,-0.23104 -0.394189,0.4944 -0.56118,-0.29128 -0.443705,0.4504 -0.527659,-0.34832 -0.488358,0.4016 -0.488357,-0.4016 -0.527659,0.34832 -0.443705,-0.4504 -0.561181,0.29128 -0.39419,-0.4944 -0.588553,0.23104 -0.340358,-0.5328 -0.609478,0.16824 -0.282796,-0.56552 -0.623724,0.1036 -0.222136,-0.592 -0.631137,0.0376 -0.159042,-0.61192 -0.631635,-0.028 -0.094205,-0.6252 -0.625213,-0.0942 -0.028337,-0.6316 -0.611941,-0.15904 0.037842,-0.63112 -0.591964,-0.22216 0.103607,-0.62376 -0.565502,-0.2828 0.168236,-0.60944 -0.532844,-0.3404 0.231022,-0.58856 -0.494348,-0.39416 0.291277,-0.5612 -0.450435,-0.44368 0.348341,-0.52768 z"
+                     id="path7830-6"
+                     stroke-width="0.072"
+                     style="display:inline;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                     stroke-opacity="1" />
+                </g>
+                <g
+                   transform="rotate(180,14.3798,827.52)"
+                   id="g9744">
+                  <path
+                     fill="none"
+                     stroke="#ffffff"
+                     d="M 21.5964,819.437 A 10.8,10.8 0 0 1 7.44856,835.755"
+                     id="path7861-2"
+                     stroke-width="4.32"
+                     style="display:inline;opacity:0.144796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                     stroke-opacity="1" />
+                </g>
+                <g
+                   transform="translate(0,-0.0019461)"
+                   id="g9747">
+                  <path
+                     fill="none"
+                     stroke="#000000"
+                     d="M 21.5964,819.437 A 10.8,10.8 0 0 1 7.44856,835.755"
+                     id="path7851-0"
+                     stroke-width="4.32"
+                     style="display:inline;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                     stroke-opacity="0.119565" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         partID="854367070"
+         id="g9763"
+         transform="scale(0.3527778)">
+        <line
+           stroke-linecap="round"
+           stroke="#8c0000"
+           x1="115.2"
+           y1="43.2001"
+           x2="72.000999"
+           y2="79.199997"
+           stroke-width="3.2"
+           id="line9759" />
+        <line
+           stroke-linecap="round"
+           stroke="#cc1414"
+           x1="115.2"
+           y1="43.2001"
+           x2="72.000999"
+           y2="79.199997"
+           stroke-width="1.6"
+           id="line9761" />
+      </g>
+      <g
+         partID="854367130"
+         id="g9769"
+         transform="scale(0.3527778)">
+        <line
+           stroke-linecap="round"
+           stroke="#000000"
+           x1="100.8"
+           y1="43.2001"
+           x2="144.00101"
+           y2="79.199997"
+           stroke-width="3.2"
+           id="line9765" />
+        <line
+           stroke-linecap="round"
+           stroke="#404040"
+           x1="100.8"
+           y1="43.2001"
+           x2="144.00101"
+           y2="79.199997"
+           stroke-width="1.6"
+           id="line9767" />
+      </g>
+      <g
+         partID="854367160"
+         id="g9775"
+         transform="scale(0.3527778)">
+        <line
+           stroke-linecap="round"
+           stroke="#00a527"
+           x1="108.001"
+           y1="43.2001"
+           x2="100.799"
+           y2="79.199997"
+           stroke-width="3.2"
+           id="line9771" />
+        <line
+           stroke-linecap="round"
+           stroke="#25cc35"
+           x1="108.001"
+           y1="43.2001"
+           x2="100.799"
+           y2="79.199997"
+           stroke-width="1.6"
+           id="line9773" />
+      </g>
+    </g>
+  </g>
+</svg>
