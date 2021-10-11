@@ -118,7 +118,7 @@ htmlhelp_basename = 'PewPewdoc'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    # 'papersize': 'letterpaper',
+    'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
@@ -126,11 +126,19 @@ latex_elements = {
 
     # Additional stuff for the LaTeX preamble.
     #
-    # 'preamble': '',
+    # Hacks to get rid of the title and TOC only in the "handout" document
+    'preamble': r'\makeatletter\@ifclassloaded{sphinxhowto}{\renewcommand{\sphinxmaketitle}{}\renewcommand{\sphinxtableofcontents}{}}\makeatother',
 
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
+
+    # don't generate an index
+    # (specifically in the handout document, but it's not very useful in
+    # the main document either because all it contains is pew elements that
+    # are all on the same page)
+    'makeindex': '',
+    'printindex': '',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
@@ -139,7 +147,11 @@ latex_elements = {
 latex_documents = [
     (master_doc, 'PewPew.tex', u'PewPew Documentation',
      u'Radomir Dopieralski', 'manual'),
+    ('handout/index', 'Handout.tex', 'Handout', 'Christian Walther', 'howto'),
 ]
+
+# suppress the python module index that would only list "pew"
+latex_domain_indices = False
 
 
 # -- Options for manual page output ---------------------------------------
@@ -171,3 +183,12 @@ intersphinx_mapping = {
         'python': ('https://docs.python.org/3/', None),
         'cp': ('https://circuitpython.readthedocs.io/en/latest/', None),
 }
+
+# Make this file an extension for some things that cannot be achieved
+# through basic configuration.
+def setup(app):
+	app.connect('builder-inited', on_builder_inited)
+
+def on_builder_inited(app):
+	if app.builder.name != 'latex':
+		app.config.exclude_patterns.append('handout')

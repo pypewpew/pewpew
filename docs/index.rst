@@ -17,5 +17,6 @@ features available.
     tutorial-sokoban.rst
     pewmulator.rst
     devices.rst
+    components.rst
     community.rst
 
