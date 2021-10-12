@@ -20,3 +20,5 @@ Handout
    page3footer
    ../components/dotstar
    page4footer
+   ../components/speaker
+   page5footer

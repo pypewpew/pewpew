@@ -1,3 +1,5 @@
+.. _leds:
+
 Light-Emitting Diodes (LEDs)
 ----------------------------
 
