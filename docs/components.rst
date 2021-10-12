@@ -8,3 +8,4 @@ This section contains some examples to get you started with enhancing your PewPe
 
    components/led
    components/potentiometer
+   components/dotstar

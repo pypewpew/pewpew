@@ -18,3 +18,5 @@ Handout
    page2footer
    ../components/potentiometer
    page3footer
+   ../components/dotstar
+   page4footer
