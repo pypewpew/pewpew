@@ -10,3 +10,4 @@ This section contains some examples to get you started with enhancing your PewPe
    components/potentiometer
    components/dotstar
    components/speaker
+   components/accelerometer

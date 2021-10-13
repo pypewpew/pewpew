@@ -22,3 +22,5 @@ Handout
    page4footer
    ../components/speaker
    page5footer
+   ../components/accelerometer
+   page6footer
