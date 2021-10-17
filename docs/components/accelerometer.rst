@@ -16,7 +16,7 @@ Libraries required: https://github.com/adafruit/Adafruit_CircuitPython_LIS3DH an
 
    >>> import board
    >>> import adafruit_lis3dh
-   >>> a = adafruit_lis3dh.LIS3DH_I2C(board.I2C(), address=0x19)
+   >>> a = adafruit_lis3dh.LIS3DH_I2C(board.I2C(), address=0x1d)
    >>> a.acceleration
    acceleration(x=-0.0862066, y=0.019157, z=9.73177)
    # in m/s^2
