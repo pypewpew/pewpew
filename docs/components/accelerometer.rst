@@ -22,6 +22,7 @@ Libraries required: https://github.com/adafruit/Adafruit_CircuitPython_LIS3DH an
    # in m/s^2
    
    >>> import pew
+   >>> import math
    >>> pew.init()
    >>> screen = pew.Pix()
    >>> while True:
