@@ -20,6 +20,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+import os
 
 # -- General configuration ------------------------------------------------
 
@@ -151,6 +152,11 @@ latex_documents = [
      u'Radomir Dopieralski', 'manual'),
     ('handout/index', 'Handout.tex', 'Handout', 'Christian Walther', 'howto'),
 ]
+
+# Read the Docs does not support building multiple documents
+# (https://github.com/readthedocs/readthedocs.org/issues/8612)
+if 'READTHEDOCS' in os.environ:
+	latex_documents = latex_documents[:1]
 
 # suppress the python module index that would only list "pew"
 latex_domain_indices = False
