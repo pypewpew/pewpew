@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="2.9in" height="1.3in" viewBox="0 0 2900 1300">
+	<g id="originals" style="display:none">
+		<rect x="96" y="31" width="2755.906" height="1259.843" rx="275.591" style="fill:none;stroke:#000000;stroke-width:10;"/>
+		<rect x="920.0785" y="31" width="1259.843" height="1259.843" style="fill:none;stroke:#000000;stroke-width:10;"/>
+		<g transform="translate(1550, 691)">
+			<rect x="-616" y="-460" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="-460" y="-460" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="-304" y="-460" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="-148" y="-460" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="8"    y="-460" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="164"  y="-460" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="320"  y="-460" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="476"  y="-460" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="-616" y="-304" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="-460" y="-304" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="-304" y="-304" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="-148" y="-304" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="8"    y="-304" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="164"  y="-304" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="320"  y="-304" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<rect x="476"  y="-304" width="140" height="140" style="fill:none;stroke:#000000;stroke-width:10;"/>
+		</g>
+		<g transform="translate(519, 193)">
+			<rect x="-118" y="-118" width="236" height="236" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<circle cx="0" cy="0" r="69" style="fill:none;stroke:#000000;stroke-width:10;"/>
+		</g>
+		<g transform="translate(319, 443)">
+			<rect x="-118" y="-118" width="236" height="236" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<circle cx="0" cy="0" r="69" style="fill:none;stroke:#000000;stroke-width:10;"/>
+		</g>
+		<g transform="translate(719, 443)">
+			<rect x="-118" y="-118" width="236" height="236" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<circle cx="0" cy="0" r="69" style="fill:none;stroke:#000000;stroke-width:10;"/>
+		</g>
+		<g transform="translate(2569, 245)">
+			<rect x="-118" y="-118" width="236" height="236" style="fill:none;stroke:#000000;stroke-width:10;"/>
+			<circle cx="0" cy="0" r="69" style="fill:none;stroke:#000000;stroke-width:10;"/>
+		</g>
+		<circle cx="800" cy="107" r="46" style="fill:none;stroke:#000000;stroke-width:10;"/>
+		<circle cx="2300" cy="107" r="46" style="fill:none;stroke:#000000;stroke-width:10;"/>
+		<circle cx="250" cy="182" r="46" style="fill:none;stroke:#000000;stroke-width:10;"/>
+	</g>
+	<g id="breadboard">
+		<path d="M 2851.9082,442.99314 V 306.59992 c 0,-152.67742 -122.9167,-275.594063 -275.5941,-275.594063 H 371.58201 C 218.90462,31.005857 96.008295,153.9225 96.008295,306.59992 V 442.99314 M 800.00808,60.994463 c 25.40523,-9.4e-5 46.00026,20.594931 46.00017,46.000157 9e-5,25.40523 -20.59494,46.00026 -46.00017,46.00016 -25.40522,9e-5 -46.00024,-20.59493 -46.00015,-46.00016 -9e-5,-25.405222 20.59494,-46.000246 46.00015,-46.000157 z m 1499.99992,0 c 25.4052,-1.16e-4 46.0003,20.594915 46.0002,46.000157 10e-5,25.40525 -20.595,46.00028 -46.0002,46.00016 -25.4052,6e-5 -46.0002,-20.59496 -46.0001,-46.00016 -1e-4,-25.405201 20.5949,-46.000216 46.0001,-46.000157 z M 249.99998,136.00667 c 25.40523,-1e-4 46.00026,20.59492 46.00017,46.00015 9e-5,25.40523 -20.59494,46.00026 -46.00017,46.00017 -25.40522,9e-5 -46.00025,-20.59494 -46.00016,-46.00017 -9e-5,-25.40523 20.59494,-46.00025 46.00016,-46.00015 z" style="fill:#ffffff;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;"/>
+		<path d="m 2638,245 c 0,38.10765 -30.8924,69 -69,69 -38.1076,0 -69,-30.89235 -69,-69 0,-38.10765 30.8924,-69 69,-69 38.1076,0 69,30.89235 69,69 z M 2451,127 h 236 V 363 H 2451 Z M 650,443 c 0,-38.10765 30.89235,-69 69,-69 38.10765,0 69,30.89235 69,69 m -538,0 c 0,-38.10765 30.89235,-69 69,-69 38.10765,0 69,30.89235 69,69 M 437,443 V 325 H 201 V 443 M 837,443 V 325 H 601 V 443 M 588,193 c 0,38.10765 -30.89235,69 -69,69 -38.10765,0 -69,-30.89235 -69,-69 0,-38.10765 30.89235,-69 69,-69 38.10765,0 69,30.89235 69,69 z M 401,75 H 637 V 311 H 401 Z m 533.00059,206.00584 v 59.99415 h 139.99431 v -59.99415 m 16.0115,0 v 59.99415 h 139.9944 v -59.99415 m 15.9911,0 v 59.99415 h 140.0147 v -59.99415 m 15.9912,0 v 59.99415 h 139.9943 v -59.99415 m 16.0116,0 v 59.99415 h 139.9942 v -59.99415 m 16.0116,0 v 59.99415 h 139.9943 v -59.99415 m 15.9912,0 v 59.99415 h 140.0147 v -59.99415 m 15.9911,0 v 59.99415 h 139.9944 V 281.00584 M 1073.9949,442.99314 V 356.99999 H 934.00059 v 85.99315 m 296.00021,0 v -85.99315 h -139.9944 v 85.99315 m 296.0002,0 v -85.99315 h -140.0147 v 85.99315 m 296.0002,0 v -85.99315 h -139.9943 v 85.99315 m 296.0001,0 v -85.99315 h -139.9942 v 85.99315 m 296.0001,0 v -85.99315 h -139.9943 v 85.99315 m 296.0002,0 V 356.99999 H 1869.995 v 85.99315 m 296.0002,0 v -85.99315 h -139.9944 v 85.99315 m 153.9307,0 V 31.005857 m -1259.84692,0 V 442.99314" style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;"/>
+		<path d="M 1000,100 C 1033,130 1067,130 1100,100" style="fill:none;stroke:#000000;stroke-width:20;"/>
+		<path d="M 1900,100 C 1933,130 1967,130 2000,100" style="fill:none;stroke:#000000;stroke-width:20;"/>
+		<circle cx="1000" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="1100" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="1200" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="1300" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="1400" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="1500" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="1600" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="1700" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="1800" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="1900" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="2000" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<circle cx="2100" cy="100" r="33" style="fill:#000000;stroke:none;"/>
+		<rect id="connector0pin" x="985" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector1pin" x="1085" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector2pin" x="1185" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector3pin" x="1285" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector4pin" x="1385" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector5pin" x="1485" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector6pin" x="1585" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector7pin" x="1685" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector8pin" x="1785" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector9pin" x="1885" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector10pin" x="1985" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<rect id="connector11pin" x="2085" y="85" width="30" height="30" style="fill:none;stroke:none;"/>
+		<text x="1050" y="230" text-anchor="middle" style="fill:#000000;stroke:none;font-family:'Droid Sans';font-size:100;">+</text>
+		<text x="1200" y="230" text-anchor="middle" style="fill:#000000;stroke:none;font-family:'Droid Sans';font-size:100;">7</text>
+		<text x="1300" y="230" text-anchor="middle" style="fill:#000000;stroke:none;font-family:'Droid Sans';font-size:100;">6</text>
+		<text x="1400" y="230" text-anchor="middle" style="fill:#000000;stroke:none;font-family:'Droid Sans';font-size:100;">5</text>
+		<text x="1500" y="230" text-anchor="middle" style="fill:#000000;stroke:none;font-family:'Droid Sans';font-size:100;">4</text>
+		<text x="1600" y="230" text-anchor="middle" style="fill:#000000;stroke:none;font-family:'Droid Sans';font-size:100;">3</text>
+		<text x="1700" y="230" text-anchor="middle" style="fill:#000000;stroke:none;font-family:'Droid Sans';font-size:100;">2</text>
+		<text x="1800" y="230" text-anchor="middle" style="fill:#000000;stroke:none;font-family:'Droid Sans';font-size:100;">1</text>
+		<text x="1950" y="230" text-anchor="middle" style="fill:#000000;stroke:none;font-family:'Droid Sans';font-size:100;">–</text>
+		<text x="2100" y="230" text-anchor="middle" style="fill:#000000;stroke:none;font-family:'Droid Sans';font-size:100;">R</text>
+	</g>
+</svg>

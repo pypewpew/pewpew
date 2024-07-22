@@ -95,7 +95,7 @@ inspect how it is build, build your own, improve and extend the design, and
 even sell your own versions.
 
 The designs are available in the
-`project's repository <https://github.com/pewpew-game>`_.
+`project's repository <https://github.com/pypewpew>`_.
 
 
 Buy a Kit

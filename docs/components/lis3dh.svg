@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1.2in"
+   height="0.6in"
+   viewBox="0 0 1200 600"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g id="breadboard">
+    <path
+       style="fill:#1B5BB3"
+       d="M 50,75 V 575 H 1150 V 75 Z M 160,110 a 70,70 0 0 1 70,70 70,70 0 0 1 -70,70 70,70 0 0 1 -70,-70 70,70 0 0 1 70,-70 z m 880,0 a 70,70 0 0 1 70,70 70,70 0 0 1 -70,70 70,70 0 0 1 -70,-70 70,70 0 0 1 70,-70 z M 100,470 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z m 100,0 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z m 100,0 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z m 100,0 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z m 100,0 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z m 100,0 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z m 100,0 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z m 100,0 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z m 100,0 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z m 100,0 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z m 100,0 a 30,30 0 0 1 30,30 30,30 0 0 1 -30,30 30,30 0 0 1 -30,-30 30,30 0 0 1 30,-30 z" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="160"
+       cy="180"
+       r="70" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="1040"
+       cy="180"
+       r="70" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="100"
+       cy="500"
+       r="30" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="200"
+       cy="500"
+       r="30" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="300"
+       cy="500"
+       r="30" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="400"
+       cy="500"
+       r="30" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="500"
+       cy="500"
+       r="30" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="600"
+       cy="500"
+       r="30" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="700"
+       cy="500"
+       r="30" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="800"
+       cy="500"
+       r="30" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="900"
+       cy="500"
+       r="30" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="1000"
+       cy="500"
+       r="30" />
+    <circle
+       style="fill:none;stroke:#8C8C8C;stroke-width:20"
+       cx="1100"
+       cy="500"
+       r="30" />
+    <rect
+       style="fill:#404040"
+       width="120"
+       height="120"
+       x="540"
+       y="190" />
+    <g
+       transform="translate(300,250)">
+      <rect
+         style="fill:#404040"
+         id="rect5389"
+         width="40"
+         height="50"
+         x="-20"
+         y="-25" />
+      <rect
+         style="fill:#8C8C8C"
+         id="rect5573"
+         width="40"
+         height="20"
+         x="-20"
+         y="-45" />
+      <rect
+         style="fill:#8C8C8C"
+         id="rect5629"
+         width="40"
+         height="20"
+         x="-20"
+         y="25" />
+    </g>
+    <g
+       transform="translate(375,250)">
+      <rect
+         style="fill:#404040"
+         id="rect5636"
+         width="40"
+         height="50"
+         x="-20"
+         y="-25" />
+      <rect
+         style="fill:#8C8C8C"
+         id="rect5638"
+         width="40"
+         height="20"
+         x="-20"
+         y="-45" />
+      <rect
+         style="fill:#8C8C8C"
+         id="rect5640"
+         width="40"
+         height="20"
+         x="-20"
+         y="25" />
+    </g>
+    <g
+       transform="translate(450,250)">
+      <rect
+         style="fill:#997450"
+         id="rect5644"
+         width="40"
+         height="50"
+         x="-20"
+         y="-25" />
+      <rect
+         style="fill:#8C8C8C"
+         id="rect5646"
+         width="40"
+         height="20"
+         x="-20"
+         y="-45" />
+      <rect
+         style="fill:#8C8C8C"
+         id="rect5648"
+         width="40"
+         height="20"
+         x="-20"
+         y="25" />
+    </g>
+    <g
+       transform="translate(750,250)">
+      <rect
+         style="fill:#997450"
+         id="rect5652"
+         width="40"
+         height="50"
+         x="-20"
+         y="-25" />
+      <rect
+         style="fill:#8C8C8C"
+         id="rect5654"
+         width="40"
+         height="20"
+         x="-20"
+         y="-45" />
+      <rect
+         style="fill:#8C8C8C"
+         id="rect5656"
+         width="40"
+         height="20"
+         x="-20"
+         y="25" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:70;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="460"
+       y="175"
+       dx="0">LIS3DH</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="125"
+       transform="rotate(-90)">VCC</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="225"
+       transform="rotate(-90)">GND</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="325"
+       transform="rotate(-90)">SCL</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="425"
+       transform="rotate(-90)">SDA</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="525"
+       transform="rotate(-90)">SDO</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="625"
+       transform="rotate(-90)">CS</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="725"
+       transform="rotate(-90)">INT1</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="825"
+       transform="rotate(-90)">INT2</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="925"
+       transform="rotate(-90)">ADC1</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="1025"
+       transform="rotate(-90)">ADC2</text>
+    <text
+       xml:space="preserve"
+       style="font-size:60;font-family:OCRA;fill:#EEEEEE;letter-spacing:-3.2"
+       x="-460"
+       y="1125"
+       transform="rotate(-90)">ADC3</text>
+  </g>
+</svg>

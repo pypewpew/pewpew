@@ -20,6 +20,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+import os
 
 # -- General configuration ------------------------------------------------
 
@@ -104,7 +105,7 @@ html_theme_options = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 
 # -- Options for HTMLHelp output ------------------------------------------
@@ -118,7 +119,7 @@ htmlhelp_basename = 'PewPewdoc'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    # 'papersize': 'letterpaper',
+    'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
@@ -126,11 +127,21 @@ latex_elements = {
 
     # Additional stuff for the LaTeX preamble.
     #
-    # 'preamble': '',
+    # Hacks to get rid of the title and TOC only in the "handout" document
+    'preamble': r'\makeatletter\@ifclassloaded{sphinxhowto}{\renewcommand{\sphinxmaketitle}{}\renewcommand{\sphinxtableofcontents}{}}\makeatother'
+    # wrap floating figures more tightly vertically and more loosely horizontally
+    '\setlength{\intextsep}{0mm}\setlength{\columnsep}{8mm}',
 
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
+
+    # don't generate an index
+    # (specifically in the handout document, but it's not very useful in
+    # the main document either because all it contains is pew elements that
+    # are all on the same page)
+    'makeindex': '',
+    'printindex': '',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
@@ -139,7 +150,16 @@ latex_elements = {
 latex_documents = [
     (master_doc, 'PewPew.tex', u'PewPew Documentation',
      u'Radomir Dopieralski', 'manual'),
+    ('handout/index', 'Handout.tex', 'Handout', 'Christian Walther', 'howto'),
 ]
+
+# Read the Docs does not support building multiple documents
+# (https://github.com/readthedocs/readthedocs.org/issues/8612)
+if 'READTHEDOCS' in os.environ:
+	latex_documents = latex_documents[:1]
+
+# suppress the python module index that would only list "pew"
+latex_domain_indices = False
 
 
 # -- Options for manual page output ---------------------------------------
@@ -169,5 +189,14 @@ texinfo_documents = [
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {
         'python': ('https://docs.python.org/3/', None),
-        'cp': ('http://circuitpython.readthedocs.io/en/stable/', None),
+        'cp': ('https://circuitpython.readthedocs.io/en/latest/', None),
 }
+
+# Make this file an extension for some things that cannot be achieved
+# through basic configuration.
+def setup(app):
+	app.connect('builder-inited', on_builder_inited)
+
+def on_builder_inited(app):
+	if app.builder.name != 'latex':
+		app.config.exclude_patterns.append('handout')

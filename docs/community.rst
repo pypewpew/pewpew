@@ -9,4 +9,4 @@ There are also some users active at `CircuitPython
 Discord <https://discordapp.com/channels/327254708534116352/327298996332658690>`_
 channel, if you prefer a more interactive chat.
 
-All the code and design files for the project can be found in the `pewpew-game GitHub repository <https://github.com/pewpew-game/>`_.
+All the code and design files for the project can be found in the `pewpew-game GitHub repository <https://github.com/pypewpew/>`_.

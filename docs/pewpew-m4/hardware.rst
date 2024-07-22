@@ -31,6 +31,6 @@ to inspect how it is build, build your own, improve and extend the design,
 and even sell your own versions.
 
 The designs are available in the
-`project's repository <https://github.com/pewpew-game/pewpew-m4-v8>`_.
+`project's repository <https://github.com/pypewpew/pewpew-m4-v8>`_.
 
 
