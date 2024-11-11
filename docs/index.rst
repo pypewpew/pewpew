@@ -15,6 +15,7 @@ features available.
     pew.rst
     tutorial.rst
     tutorial-sokoban.rst
+    tutorial-mine.rst
     pewmulator.rst
     devices.rst
     components.rst
