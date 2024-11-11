@@ -361,7 +361,7 @@ or treasure. If it is, we check the two spaces to the left and to the right -- i
 Finally, we need a winning condition. We need to count how many treasures are there left on the map, and end the game when there are none.
 
 .. code-block:: python
-    :emphasize-lines: 50,53-55
+    :emphasize-lines: 50,53-55,70-71
 
     import pew
 
